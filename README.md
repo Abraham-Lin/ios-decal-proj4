@@ -3,10 +3,10 @@ CSN (Cal Sports Network)
 
 Authors
 -------
-*Tommy Tai
-*Jonathan Bai
-*Abraham Lin
-*Cindy Tung
+-Tommy Tai
+-Jonathan Bai
+-Abraham Lin
+-Cindy Tung
 
 Purpose
 -------
