@@ -10,32 +10,35 @@ Authors
 
 Purpose
 -------
-* To create an app for only CAL sports so that users can access scores easily without the need to google search or use the ESPN app.
+To create an app for only CAL sports so that users can access scores easily without the need to google search or use the ESPN app.
 
 Features
 --------
-* Scores
+* Scores/Box Score
 * Upcoming Games
 * Sports: Basketball, Swimming, Tennis, Baseball
+* Team Roster
 * Link to actual score page embedded (more information)
-* Wikipedia Recommendation
-* Box Score
 
 Control Flow
 ------------
 * First view is a table view of sports scores by date
-* Under each game will be the score, box score, and more details pertaining to that game
 * Hamburger button to select any sport
-* Nested within is a table view of all scores pertaining to that sport
+* Nested within the hamburger button is a table view of all games played pertaining to that sport
+* Under each game will be the score, box score, and more details pertaining to that game
+* Under a specific sport section, can swipe right to view team roster and all information pertaining to each team member 
+
 
 Implementation
 --------------
 
 ###Model
 * Player object, inherit from game.swfit, player would have stats specific to game
+* Fetch data from CAL sports API (For scores, upcoming games, etc...)
+* Player object also inherits from roster.swift, containing all roster information about the player
 
 ###View
-* SchedulesTableView, GamesTableView, SportTableView, PlayerTableView
+* SchedulesTableView, GamesTableView, SportTableView, PlayerTableView, RosterTableView
 
 ###Controller
-* SchedulesTableViewController, GamesTableViewController, SportTableViewController, PlayerTableViewController
+* SchedulesTableViewController, GamesTableViewController, SportTableViewController, PlayerTableViewController, RosterTableViewController
