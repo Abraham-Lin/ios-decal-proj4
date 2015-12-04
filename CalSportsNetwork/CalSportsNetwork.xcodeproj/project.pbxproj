@@ -1,0 +1,402 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		031118EC1C11317A0090E63B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031118EB1C11317A0090E63B /* AppDelegate.swift */; };
+		031118EE1C11317A0090E63B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031118ED1C11317A0090E63B /* ViewController.swift */; };
+		031118F11C11317A0090E63B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 031118EF1C11317A0090E63B /* Main.storyboard */; };
+		031118F31C11317A0090E63B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 031118F21C11317A0090E63B /* Assets.xcassets */; };
+		031118F61C11317A0090E63B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 031118F41C11317A0090E63B /* LaunchScreen.storyboard */; };
+		031119011C11317B0090E63B /* CalSportsNetworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031119001C11317B0090E63B /* CalSportsNetworkTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		031118FD1C11317B0090E63B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 031118E01C11317A0090E63B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 031118E71C11317A0090E63B;
+			remoteInfo = CalSportsNetwork;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		031118E81C11317A0090E63B /* CalSportsNetwork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalSportsNetwork.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		031118EB1C11317A0090E63B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		031118ED1C11317A0090E63B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		031118F01C11317A0090E63B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		031118F21C11317A0090E63B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		031118F51C11317A0090E63B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		031118F71C11317A0090E63B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		031118FC1C11317B0090E63B /* CalSportsNetworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalSportsNetworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		031119001C11317B0090E63B /* CalSportsNetworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalSportsNetworkTests.swift; sourceTree = "<group>"; };
+		031119021C11317B0090E63B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		031118E51C11317A0090E63B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		031118F91C11317A0090E63B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		031118DF1C11317A0090E63B = {
+			isa = PBXGroup;
+			children = (
+				031118EA1C11317A0090E63B /* CalSportsNetwork */,
+				031118FF1C11317B0090E63B /* CalSportsNetworkTests */,
+				031118E91C11317A0090E63B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		031118E91C11317A0090E63B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				031118E81C11317A0090E63B /* CalSportsNetwork.app */,
+				031118FC1C11317B0090E63B /* CalSportsNetworkTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		031118EA1C11317A0090E63B /* CalSportsNetwork */ = {
+			isa = PBXGroup;
+			children = (
+				031118EB1C11317A0090E63B /* AppDelegate.swift */,
+				031118ED1C11317A0090E63B /* ViewController.swift */,
+				031118EF1C11317A0090E63B /* Main.storyboard */,
+				031118F21C11317A0090E63B /* Assets.xcassets */,
+				031118F41C11317A0090E63B /* LaunchScreen.storyboard */,
+				031118F71C11317A0090E63B /* Info.plist */,
+			);
+			path = CalSportsNetwork;
+			sourceTree = "<group>";
+		};
+		031118FF1C11317B0090E63B /* CalSportsNetworkTests */ = {
+			isa = PBXGroup;
+			children = (
+				031119001C11317B0090E63B /* CalSportsNetworkTests.swift */,
+				031119021C11317B0090E63B /* Info.plist */,
+			);
+			path = CalSportsNetworkTests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		031118E71C11317A0090E63B /* CalSportsNetwork */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 031119051C11317B0090E63B /* Build configuration list for PBXNativeTarget "CalSportsNetwork" */;
+			buildPhases = (
+				031118E41C11317A0090E63B /* Sources */,
+				031118E51C11317A0090E63B /* Frameworks */,
+				031118E61C11317A0090E63B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CalSportsNetwork;
+			productName = CalSportsNetwork;
+			productReference = 031118E81C11317A0090E63B /* CalSportsNetwork.app */;
+			productType = "com.apple.product-type.application";
+		};
+		031118FB1C11317A0090E63B /* CalSportsNetworkTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 031119081C11317B0090E63B /* Build configuration list for PBXNativeTarget "CalSportsNetworkTests" */;
+			buildPhases = (
+				031118F81C11317A0090E63B /* Sources */,
+				031118F91C11317A0090E63B /* Frameworks */,
+				031118FA1C11317A0090E63B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				031118FE1C11317B0090E63B /* PBXTargetDependency */,
+			);
+			name = CalSportsNetworkTests;
+			productName = CalSportsNetworkTests;
+			productReference = 031118FC1C11317B0090E63B /* CalSportsNetworkTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		031118E01C11317A0090E63B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "Tommy Tai";
+				TargetAttributes = {
+					031118E71C11317A0090E63B = {
+						CreatedOnToolsVersion = 7.0;
+					};
+					031118FB1C11317A0090E63B = {
+						CreatedOnToolsVersion = 7.0;
+						TestTargetID = 031118E71C11317A0090E63B;
+					};
+				};
+			};
+			buildConfigurationList = 031118E31C11317A0090E63B /* Build configuration list for PBXProject "CalSportsNetwork" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 031118DF1C11317A0090E63B;
+			productRefGroup = 031118E91C11317A0090E63B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				031118E71C11317A0090E63B /* CalSportsNetwork */,
+				031118FB1C11317A0090E63B /* CalSportsNetworkTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		031118E61C11317A0090E63B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				031118F61C11317A0090E63B /* LaunchScreen.storyboard in Resources */,
+				031118F31C11317A0090E63B /* Assets.xcassets in Resources */,
+				031118F11C11317A0090E63B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		031118FA1C11317A0090E63B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		031118E41C11317A0090E63B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				031118EE1C11317A0090E63B /* ViewController.swift in Sources */,
+				031118EC1C11317A0090E63B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		031118F81C11317A0090E63B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				031119011C11317B0090E63B /* CalSportsNetworkTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		031118FE1C11317B0090E63B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 031118E71C11317A0090E63B /* CalSportsNetwork */;
+			targetProxy = 031118FD1C11317B0090E63B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		031118EF1C11317A0090E63B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				031118F01C11317A0090E63B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		031118F41C11317A0090E63B /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				031118F51C11317A0090E63B /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		031119031C11317B0090E63B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		031119041C11317B0090E63B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		031119061C11317B0090E63B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CalSportsNetwork/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = io.tommytai.CalSportsNetwork;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		031119071C11317B0090E63B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CalSportsNetwork/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = io.tommytai.CalSportsNetwork;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		031119091C11317B0090E63B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = CalSportsNetworkTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = io.tommytai.CalSportsNetworkTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CalSportsNetwork.app/CalSportsNetwork";
+			};
+			name = Debug;
+		};
+		0311190A1C11317B0090E63B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = CalSportsNetworkTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = io.tommytai.CalSportsNetworkTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CalSportsNetwork.app/CalSportsNetwork";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		031118E31C11317A0090E63B /* Build configuration list for PBXProject "CalSportsNetwork" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				031119031C11317B0090E63B /* Debug */,
+				031119041C11317B0090E63B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		031119051C11317B0090E63B /* Build configuration list for PBXNativeTarget "CalSportsNetwork" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				031119061C11317B0090E63B /* Debug */,
+				031119071C11317B0090E63B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		031119081C11317B0090E63B /* Build configuration list for PBXNativeTarget "CalSportsNetworkTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				031119091C11317B0090E63B /* Debug */,
+				0311190A1C11317B0090E63B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 031118E01C11317A0090E63B /* Project object */;
+}
