@@ -1,14 +1,14 @@
 //
-//  GamesFeedViewController.swift
+//  SportsViewController.swift
 //  CalSportsNetwork
 //
-//  Created by Tommy Tai on 12/4/15.
+//  Created by Tommy Tai on 12/5/15.
 //  Copyright © 2015 Tommy Tai. All rights reserved.
 //
 
 import UIKit
 
-class GamesFeedViewController: UIViewController {
+class SportsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -20,16 +20,8 @@ class GamesFeedViewController: UIViewController {
         loadVisualElements()
     }
     
-    func loadVisualElements() {
-        let width = UIScreen.mainScreen().bounds.size.width
-        let height = UIScreen.mainScreen().bounds.size.height
-        let offset = height - width
-    }
-    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    
-    
 }

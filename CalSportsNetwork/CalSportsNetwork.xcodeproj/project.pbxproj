@@ -14,6 +14,8 @@
 		031118F61C11317A0090E63B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 031118F41C11317A0090E63B /* LaunchScreen.storyboard */; };
 		031119011C11317B0090E63B /* CalSportsNetworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031119001C11317B0090E63B /* CalSportsNetworkTests.swift */; };
 		035D4D4D1C12492A00A39FD3 /* GamesFeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		03FA488B1C13AE1100A8445B /* SportsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA488A1C13AE1100A8445B /* SportsViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		03FA488D1C13AE3600A8445B /* BoxScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA488C1C13AE3500A8445B /* BoxScoreViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		031119001C11317B0090E63B /* CalSportsNetworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalSportsNetworkTests.swift; sourceTree = "<group>"; };
 		031119021C11317B0090E63B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GamesFeedViewController.swift; sourceTree = "<group>"; };
+		03FA488A1C13AE1100A8445B /* SportsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SportsViewController.swift; sourceTree = "<group>"; };
+		03FA488C1C13AE3500A8445B /* BoxScoreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoxScoreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,8 @@
 				031118F41C11317A0090E63B /* LaunchScreen.storyboard */,
 				031118F71C11317A0090E63B /* Info.plist */,
 				035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */,
+				03FA488A1C13AE1100A8445B /* SportsViewController.swift */,
+				03FA488C1C13AE3500A8445B /* BoxScoreViewController.swift */,
 			);
 			path = CalSportsNetwork;
 			sourceTree = "<group>";
@@ -202,6 +208,8 @@
 				031118EE1C11317A0090E63B /* ViewController.swift in Sources */,
 				035D4D4D1C12492A00A39FD3 /* GamesFeedViewController.swift in Sources */,
 				031118EC1C11317A0090E63B /* AppDelegate.swift in Sources */,
+				03FA488B1C13AE1100A8445B /* SportsViewController.swift in Sources */,
+				03FA488D1C13AE3600A8445B /* BoxScoreViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
