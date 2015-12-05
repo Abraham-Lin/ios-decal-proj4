@@ -13,6 +13,7 @@
 		031118F31C11317A0090E63B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 031118F21C11317A0090E63B /* Assets.xcassets */; };
 		031118F61C11317A0090E63B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 031118F41C11317A0090E63B /* LaunchScreen.storyboard */; };
 		031119011C11317B0090E63B /* CalSportsNetworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031119001C11317B0090E63B /* CalSportsNetworkTests.swift */; };
+		035D4D4D1C12492A00A39FD3 /* GamesFeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		031118FC1C11317B0090E63B /* CalSportsNetworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalSportsNetworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		031119001C11317B0090E63B /* CalSportsNetworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalSportsNetworkTests.swift; sourceTree = "<group>"; };
 		031119021C11317B0090E63B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GamesFeedViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				031118F21C11317A0090E63B /* Assets.xcassets */,
 				031118F41C11317A0090E63B /* LaunchScreen.storyboard */,
 				031118F71C11317A0090E63B /* Info.plist */,
+				035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */,
 			);
 			path = CalSportsNetwork;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				031118EE1C11317A0090E63B /* ViewController.swift in Sources */,
+				035D4D4D1C12492A00A39FD3 /* GamesFeedViewController.swift in Sources */,
 				031118EC1C11317A0090E63B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -387,6 +391,7 @@
 				031119071C11317B0090E63B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		031119081C11317B0090E63B /* Build configuration list for PBXNativeTarget "CalSportsNetworkTests" */ = {
 			isa = XCConfigurationList;
@@ -395,6 +400,7 @@
 				0311190A1C11317B0090E63B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
