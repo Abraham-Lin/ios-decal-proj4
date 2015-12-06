@@ -13,9 +13,10 @@
 		031118F31C11317A0090E63B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 031118F21C11317A0090E63B /* Assets.xcassets */; };
 		031118F61C11317A0090E63B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 031118F41C11317A0090E63B /* LaunchScreen.storyboard */; };
 		031119011C11317B0090E63B /* CalSportsNetworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031119001C11317B0090E63B /* CalSportsNetworkTests.swift */; };
-		035D4D4D1C12492A00A39FD3 /* GamesFeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		03FA488B1C13AE1100A8445B /* SportsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA488A1C13AE1100A8445B /* SportsViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		03FA488D1C13AE3600A8445B /* BoxScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA488C1C13AE3500A8445B /* BoxScoreViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		035D4D4D1C12492A00A39FD3 /* GamesFeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */; };
+		03FA488B1C13AE1100A8445B /* SportsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA488A1C13AE1100A8445B /* SportsViewController.swift */; };
+		03FA488D1C13AE3600A8445B /* BoxScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA488C1C13AE3500A8445B /* BoxScoreViewController.swift */; };
+		4F73111D1C13BD070050144D /* oski-clear.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4F73111C1C13BD070050144D /* oski-clear.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GamesFeedViewController.swift; sourceTree = "<group>"; };
 		03FA488A1C13AE1100A8445B /* SportsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SportsViewController.swift; sourceTree = "<group>"; };
 		03FA488C1C13AE3500A8445B /* BoxScoreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoxScoreViewController.swift; sourceTree = "<group>"; };
+		4F73111C1C13BD070050144D /* oski-clear.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "oski-clear.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		031118EA1C11317A0090E63B /* CalSportsNetwork */ = {
 			isa = PBXGroup;
 			children = (
+				4F73111B1C13BD070050144D /* Photos */,
 				031118EB1C11317A0090E63B /* AppDelegate.swift */,
 				031118ED1C11317A0090E63B /* ViewController.swift */,
 				031118EF1C11317A0090E63B /* Main.storyboard */,
@@ -103,6 +106,14 @@
 				031119021C11317B0090E63B /* Info.plist */,
 			);
 			path = CalSportsNetworkTests;
+			sourceTree = "<group>";
+		};
+		4F73111B1C13BD070050144D /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				4F73111C1C13BD070050144D /* oski-clear.jpg */,
+			);
+			path = Photos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -188,6 +199,7 @@
 				031118F61C11317A0090E63B /* LaunchScreen.storyboard in Resources */,
 				031118F31C11317A0090E63B /* Assets.xcassets in Resources */,
 				031118F11C11317A0090E63B /* Main.storyboard in Resources */,
+				4F73111D1C13BD070050144D /* oski-clear.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,26 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="O6t-HP-izC">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9060" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="O6t-HP-izC">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9051"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Sports View Controller-->
         <scene sceneID="KOn-MH-bE6">
             <objects>
-                <viewController id="O6t-HP-izC" sceneMemberID="viewController">
+                <viewController id="O6t-HP-izC" customClass="SportsViewController" customModule="CalSportsNetwork" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="JuU-z3-ffe"/>
                         <viewControllerLayoutGuide type="bottom" id="OEa-Cp-Bvh"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="cug-Ug-TTT">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bJw-kS-qza">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="44"/>
+                                <color key="barTintColor" red="0.16078431904315948" green="0.40000003576278687" blue="0.92549026012420654" alpha="1" colorSpace="deviceRGB"/>
+                                <textAttributes key="titleTextAttributes">
+                                    <color key="textColor" red="0.89019614458084106" green="0.85882359743118286" blue="0.20000001788139343" alpha="1" colorSpace="deviceRGB"/>
+                                </textAttributes>
+                                <items>
+                                    <navigationItem title="Cal Sports Network" id="hmr-cw-N6e"/>
+                                </items>
+                            </navigationBar>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="bXQ-Hr-Pbk">
+                                <rect key="frame" x="0.0" y="44" width="414" height="692"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Sports-Cell" id="PCa-oX-eRy">
+                                        <rect key="frame" x="0.0" y="28" width="414" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="PCa-oX-eRy" id="5qj-Hs-EI1">
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </prototypes>
+                                <connections>
+                                    <outlet property="dataSource" destination="O6t-HP-izC" id="1dB-Qd-ZL7"/>
+                                </connections>
+                            </tableView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="oski-clear.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="6gW-yn-VrH">
+                                <rect key="frame" x="26" y="6" width="39" height="32"/>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="bJw-kS-qza" secondAttribute="trailing" constant="-20" id="8Vt-tS-rjk"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="bXQ-Hr-Pbk" secondAttribute="trailing" constant="-20" id="TMj-bZ-CoO"/>
+                            <constraint firstItem="bXQ-Hr-Pbk" firstAttribute="top" secondItem="bJw-kS-qza" secondAttribute="bottom" id="Uou-7H-iGl"/>
+                            <constraint firstItem="bXQ-Hr-Pbk" firstAttribute="top" secondItem="bJw-kS-qza" secondAttribute="bottom" id="Vcv-1D-Hfd"/>
+                            <constraint firstItem="bJw-kS-qza" firstAttribute="leading" secondItem="cug-Ug-TTT" secondAttribute="leadingMargin" constant="-20" id="W7Q-Vd-42U"/>
+                            <constraint firstItem="bJw-kS-qza" firstAttribute="top" secondItem="cug-Ug-TTT" secondAttribute="topMargin" id="mYz-ju-p63"/>
+                            <constraint firstItem="OEa-Cp-Bvh" firstAttribute="top" secondItem="bXQ-Hr-Pbk" secondAttribute="bottom" id="qQc-a6-cny"/>
+                            <constraint firstItem="bXQ-Hr-Pbk" firstAttribute="leading" secondItem="cug-Ug-TTT" secondAttribute="leadingMargin" constant="-20" id="qiY-Hb-81l"/>
+                        </constraints>
                     </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="51D-LB-dQa" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="310" y="416"/>
+            <point key="canvasLocation" x="194" y="277"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="oski-clear.jpg" width="218" height="175"/>
+    </resources>
 </document>
