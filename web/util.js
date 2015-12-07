@@ -22,6 +22,7 @@ module.exports = {
                 name: elem.bbgame.team[1].$.name,
                 score: elem.bbgame.team[1].linescore[0].$.score
             };
+            cur.gid = elem.bbgame.venue[0].$.gameid;
             out.push(cur);
         });
         return out;
