@@ -1,5 +1,6 @@
 var parseXML = require('xml2js').parseString;
 var redis = require('redis');
+var badDataString = 'Not real gameid';
 
 var client = redis.createClient();
 
@@ -13,12 +14,20 @@ module.exports = {
     getSport: function (sid, cb) {
         // query redis
         client.lrange(sid, 0, -1,  function (err, data) {
-            cb(err, data);
+            if (!data) {
+                cb(null, badDataString);
+            } else {
+                cb(err, data);
+            }
         });
     },
     getGame: function (gid, cb) {
         // query redis
         client.get(gid, function (err, data) {
+            if (!data) {
+                cb(null, badDataString);
+                return;
+            }
             var output = {};
             output.gid = gid;
             var result = JSON.parse(data);
@@ -33,11 +42,9 @@ module.exports = {
             output.away.team = result.bbgame.team[1];
             output.away.stats = result.bbgame.team[1].totals[0];
 
-            output.venue = result.ggbame.venue;
+            output.venue = result.bbgame.venue;
             
             cb(err, output);
         });
     }
 };
-
-module.exports.getGame('basketball|12|4');
