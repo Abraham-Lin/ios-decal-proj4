@@ -1,0 +1,26 @@
+{
+    "name": "CSN",
+    "description": "iosproj4",
+    "scripts": {
+        "test": "./node_modules/mocha/bin/mocha"
+    },
+    "dependencies": {
+        "underscore": "*",
+        "request": "*",
+        "express": "*",
+        "redis": "*",
+        "body-parser": "*",
+        "multer": "*",
+        "connect-redis": "*",
+        "xml2js": "*",
+        "jsftp": "*",
+        "async": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*",
+        "chai": "*",
+        "expect": "*",
+        "browserify": "*"
+    }
+}

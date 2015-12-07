@@ -1,0 +1,10 @@
+Starting Redis:
+if redis is not in your machine, brew install redis
+starting redis: redis-server
+
+Populating Redis with data:
+Run: node backgroundProcess.js
+
+Running the backend server: node web.js
+
+
