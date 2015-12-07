@@ -17,6 +17,9 @@ app.use(bodyParser.urlencoded({
 //app.use(bodyParser.json());
 
 //Routes
+app.get('/', function (req, res) {
+    res.send('its ok');
+});
 app.get('/games/:gameid', function (req, res) {
     var id = req.params.gameid;
     util.getGame(id, function (err, data) {
@@ -41,6 +44,6 @@ app.get('/sports/:sportname', function (req, res) {
 });
 
 //server
-var server = http.listen(3000, function() {
+var server = http.listen(80, function() {
     console.log('Listening on port %d', server.address().port);
 });

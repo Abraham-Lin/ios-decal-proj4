@@ -13,13 +13,14 @@ module.exports = {
         var out = [];
         _.each(data, function (elem) {
             var cur = {};
+            elem = JSON.parse(elem);
             cur.home = {
-                name: data.bbgame.team[0].$.name,
-                score: data.bbgame.team[0].linescore[0].$.score
+                name: elem.bbgame.team[0].$.name,
+                score: elem.bbgame.team[0].linescore[0].$.score
             };
             cur.away = {
-                name: data.bbgame.team[1].$.name,
-                score: data.bbgame.team[1].linescore[0].$.score
+                name: elem.bbgame.team[1].$.name,
+                score: elem.bbgame.team[1].linescore[0].$.score
             };
             out.push(cur);
         });
