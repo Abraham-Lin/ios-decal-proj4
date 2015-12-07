@@ -13,6 +13,9 @@
 		031118F31C11317A0090E63B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 031118F21C11317A0090E63B /* Assets.xcassets */; };
 		031118F61C11317A0090E63B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 031118F41C11317A0090E63B /* LaunchScreen.storyboard */; };
 		031119011C11317B0090E63B /* CalSportsNetworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031119001C11317B0090E63B /* CalSportsNetworkTests.swift */; };
+		035C5FF51C15991B00676721 /* Stats.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035C5FF41C15991B00676721 /* Stats.swift */; settings = {ASSET_TAGS = (); }; };
+		035C5FF71C15A11700676721 /* CalSportsAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035C5FF61C15A11700676721 /* CalSportsAPI.swift */; settings = {ASSET_TAGS = (); }; };
+		035C5FF91C15A17D00676721 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035C5FF81C15A17D00676721 /* Utils.swift */; settings = {ASSET_TAGS = (); }; };
 		035D4D4D1C12492A00A39FD3 /* GamesFeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */; };
 		03FA488B1C13AE1100A8445B /* SportsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA488A1C13AE1100A8445B /* SportsViewController.swift */; };
 		03FA488D1C13AE3600A8445B /* BoxScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA488C1C13AE3500A8445B /* BoxScoreViewController.swift */; };
@@ -41,6 +44,9 @@
 		031118FC1C11317B0090E63B /* CalSportsNetworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalSportsNetworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		031119001C11317B0090E63B /* CalSportsNetworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalSportsNetworkTests.swift; sourceTree = "<group>"; };
 		031119021C11317B0090E63B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		035C5FF41C15991B00676721 /* Stats.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stats.swift; sourceTree = "<group>"; };
+		035C5FF61C15A11700676721 /* CalSportsAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalSportsAPI.swift; sourceTree = "<group>"; };
+		035C5FF81C15A17D00676721 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		035D4D4C1C12492A00A39FD3 /* GamesFeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GamesFeedViewController.swift; sourceTree = "<group>"; };
 		03FA488A1C13AE1100A8445B /* SportsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SportsViewController.swift; sourceTree = "<group>"; };
 		03FA488C1C13AE3500A8445B /* BoxScoreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoxScoreViewController.swift; sourceTree = "<group>"; };
@@ -87,6 +93,7 @@
 		031118EA1C11317A0090E63B /* CalSportsNetwork */ = {
 			isa = PBXGroup;
 			children = (
+				035C5FF11C15952C00676721 /* API */,
 				4F73111B1C13BD070050144D /* Photos */,
 				031118EB1C11317A0090E63B /* AppDelegate.swift */,
 				031118ED1C11317A0090E63B /* ViewController.swift */,
@@ -108,6 +115,16 @@
 				031119021C11317B0090E63B /* Info.plist */,
 			);
 			path = CalSportsNetworkTests;
+			sourceTree = "<group>";
+		};
+		035C5FF11C15952C00676721 /* API */ = {
+			isa = PBXGroup;
+			children = (
+				035C5FF41C15991B00676721 /* Stats.swift */,
+				035C5FF61C15A11700676721 /* CalSportsAPI.swift */,
+				035C5FF81C15A17D00676721 /* Utils.swift */,
+			);
+			name = API;
 			sourceTree = "<group>";
 		};
 		4F73111B1C13BD070050144D /* Photos */ = {
@@ -221,11 +238,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				035C5FF71C15A11700676721 /* CalSportsAPI.swift in Sources */,
 				031118EE1C11317A0090E63B /* ViewController.swift in Sources */,
+				035C5FF51C15991B00676721 /* Stats.swift in Sources */,
 				035D4D4D1C12492A00A39FD3 /* GamesFeedViewController.swift in Sources */,
 				031118EC1C11317A0090E63B /* AppDelegate.swift in Sources */,
 				03FA488B1C13AE1100A8445B /* SportsViewController.swift in Sources */,
 				03FA488D1C13AE3600A8445B /* BoxScoreViewController.swift in Sources */,
+				035C5FF91C15A17D00676721 /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
