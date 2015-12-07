@@ -44,6 +44,8 @@ module.exports = {
 
             output.venue = result.bbgame.venue;
             
+            output.feed = result.bbgame.plays[0].period;
+            
             cb(err, output);
         });
     }
