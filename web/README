@@ -5,6 +5,8 @@ starting redis: redis-server
 Populating Redis with data:
 Run: node backgroundProcess.js
 
-Running the backend server: node web.js
+Running the backend server: 
+npm install
+node web.js
 
 
