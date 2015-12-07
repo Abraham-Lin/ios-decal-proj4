@@ -10,8 +10,4 @@ import Foundation
 
 class CalSportsAPI {
     
-    func loadStats(completion: (([Stats]) -> Void)!) {
-        
-        
-    }
 }

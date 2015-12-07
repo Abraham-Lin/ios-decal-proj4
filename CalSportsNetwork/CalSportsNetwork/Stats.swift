@@ -20,8 +20,5 @@ class Stats {
     
     init (data: NSDictionary) {
         
-        self.homeScore = data.valueForKey("homeScore") as! NSDictionary
-        self.awayScore = data.valueForKey("awayScore") as! NSDictionary
-        
     }
 }

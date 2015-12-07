@@ -9,13 +9,12 @@
 import UIKit
 import Foundation
 
+
 class BoxScoreViewController: UIViewController {
     
-    
+    var gamesArray : NSArray = []
     
     @IBOutlet weak var feedView: UIScrollView!
-    @IBOutlet weak var homeTeamImage: UIImageView!
-    @IBOutlet weak var awayTeamImage: UIImageView!
     @IBOutlet weak var homeTeamScore: UILabel!
     @IBOutlet weak var awayTeamScore: UILabel!
     @IBOutlet weak var gameStatus: UILabel!
@@ -26,14 +25,46 @@ class BoxScoreViewController: UIViewController {
     
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(animated)
-        self.homeTeamImage.backgroundColor = UIColor.greenColor()
-        self.awayTeamImage.backgroundColor = UIColor.redColor()
-        
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let request = NSMutableURLRequest(URL: NSURL(string: "http://ec2-52-26-157-178.us-west-2.compute.amazonaws.com/sports/basketball")!)
+        let session = NSURLSession.sharedSession()
+        request.HTTPMethod = "GET"
+        request.addValue("application/json", forHTTPHeaderField: "Content-Type")
+        request.addValue("application/json", forHTTPHeaderField: "Accept")
+        let task = session.dataTaskWithRequest(request) { data, response, error in
+            guard data != nil else {
+                print("no data found: \(error)")
+                return
+            }
+
+            // this, on the other hand, can quite easily fail if there's a server error, so you definitely
+            // want to wrap this in `do`-`try`-`catch`:
+            
+            do {
+                if let json = try NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions.AllowFragments) as? NSArray {
+                    let success = json[0]                                 // Okay, the `json` is here, let's get the value for 'success' out of it
+                    print("Success: \(success)")
+                } else {
+                    let jsonStr = NSString(data: data!, encoding: NSUTF8StringEncoding)    // No error thrown, but not NSDictionary
+                    print("Error could not parse JSON: \(jsonStr)")
+                }
+            } catch let parseError {
+                print(parseError)                                                          // Log the error thrown by `JSONObjectWithData`
+                let jsonStr = NSString(data: data!, encoding: NSUTF8StringEncoding)
+                print("Error could not parse JSON: '\(jsonStr)'")
+            }
+        }
+        
+        task.resume()
+        
+        
+    }
+    
+    func requestArray() {
         
     }
     
@@ -42,12 +73,12 @@ class BoxScoreViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    func loadFeedForTableView() {
+    func loadFeedForScrollView() {
         
-        let task = NSURLSession.sharedSession().dataTaskWithURL(NSURL(string: stats.url)!) {
+        let task = NSURLSession.sharedSession().dataTaskWithURL(NSURL(string: "http://ec2-52-26-157-178.us-west-2.compute.amazonaws.com/sports/basketball")!) {
             (data: NSData?, response: NSURLResponse?, error: NSError?) -> Void in
             if error == nil {
-            
+                
             }
         }
         task.resume()
