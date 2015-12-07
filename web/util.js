@@ -1,6 +1,7 @@
 var parseXML = require('xml2js').parseString;
 var redis = require('redis');
 var badDataString = 'Not real gameid';
+var _ = require('underscore');
 
 var client = redis.createClient();
 
