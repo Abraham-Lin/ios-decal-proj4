@@ -1,12 +1,31 @@
 var parseXML = require('xml2js').parseString;
 var redis = require('redis');
 var badDataString = 'Not real gameid';
+var _ = require('underscore');
 
 var client = redis.createClient();
 
 module.exports = {
     parse: function (data, cb) {
         parseXML(data, cb);
+    },
+    cleanGames: function (data) {
+        var out = [];
+        _.each(data, function (elem) {
+            var cur = {};
+            elem = JSON.parse(elem);
+            cur.home = {
+                name: elem.bbgame.team[0].$.name,
+                score: elem.bbgame.team[0].linescore[0].$.score
+            };
+            cur.away = {
+                name: elem.bbgame.team[1].$.name,
+                score: elem.bbgame.team[1].linescore[0].$.score
+            };
+            cur.gid = elem.bbgame.venue[0].$.gameid;
+            out.push(cur);
+        });
+        return out;
     },
     getTeam: function (tid) {
         // query redis
@@ -17,6 +36,7 @@ module.exports = {
             if (!data) {
                 cb(null, badDataString);
             } else {
+                data = module.exports.cleanGames(data);
                 cb(err, data);
             }
         });
@@ -43,6 +63,8 @@ module.exports = {
             output.away.stats = result.bbgame.team[1].totals[0];
 
             output.venue = result.bbgame.venue;
+            
+            output.feed = result.bbgame.plays[0].period;
             
             cb(err, output);
         });

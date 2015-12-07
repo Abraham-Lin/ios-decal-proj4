@@ -21,6 +21,9 @@ function warmup_help(fname, cb) {
         fs.readFile(fname, function (err, d) {
             var parseString = require('xml2js').parseString;
             parseString(d, function (err, data) {
+                if (!data) {
+                    return;
+                }
                 var gid = data.bbgame.venue[0].$.gameid;
                 //console.log(gid);
                 if (err) {
@@ -77,6 +80,7 @@ client.on('connect', function() {
                     var input = JSON.stringify(data);
                     if (!input) return;
                     client.get(gid, function (err, check_data) {
+                        //console.log(data.bbgame);
                         if (!check_data) {
                             client.lpush('basketball', input);
                         }
