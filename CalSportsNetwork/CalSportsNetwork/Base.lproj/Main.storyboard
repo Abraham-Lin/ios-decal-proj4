@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="O6t-HP-izC">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="m85-P4-nVK">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
@@ -158,15 +158,20 @@
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Gzm-w1-8MR">
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Gzm-w1-8MR">
                                 <rect key="frame" x="21" y="251" width="373" height="465"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </tableView>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Fi5-hq-DIr">
+                                <rect key="frame" x="21" y="20" width="46" height="30"/>
+                                <state key="normal" title="←"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="f6M-AV-Bge" firstAttribute="top" secondItem="VzV-Jn-prB" secondAttribute="bottom" constant="48" id="1aj-JM-7qn"/>
                             <constraint firstItem="l0U-NT-al4" firstAttribute="top" secondItem="VzV-Jn-prB" secondAttribute="bottom" constant="60" id="253-id-sur"/>
+                            <constraint firstItem="0ak-5Z-irZ" firstAttribute="top" secondItem="Gzm-w1-8MR" secondAttribute="bottom" constant="20" id="34x-oe-c9S"/>
                             <constraint firstAttribute="trailingMargin" secondItem="q3I-RT-Fgb" secondAttribute="trailing" constant="2" id="3IO-1q-S06"/>
                             <constraint firstItem="Gzm-w1-8MR" firstAttribute="top" secondItem="VzV-Jn-prB" secondAttribute="bottom" constant="231" id="5lv-Ed-yqY"/>
                             <constraint firstAttribute="leadingMargin" secondItem="sFj-K7-CrI" secondAttribute="leading" id="A5a-Mp-evu"/>
@@ -183,6 +188,8 @@
                             <constraint firstItem="cO5-N0-cF4" firstAttribute="top" secondItem="f6M-AV-Bge" secondAttribute="bottom" constant="8" id="NJo-ia-4EO"/>
                             <constraint firstAttribute="trailingMargin" secondItem="l0U-NT-al4" secondAttribute="trailing" constant="166" id="NKc-CV-tyd"/>
                             <constraint firstItem="Gzm-w1-8MR" firstAttribute="leading" secondItem="EFc-q6-PJT" secondAttribute="leadingMargin" constant="1" id="QBP-O0-XUm"/>
+                            <constraint firstItem="Fi5-hq-DIr" firstAttribute="top" secondItem="VzV-Jn-prB" secondAttribute="bottom" id="RKL-uU-mve"/>
+                            <constraint firstItem="Fi5-hq-DIr" firstAttribute="leading" secondItem="EFc-q6-PJT" secondAttribute="leadingMargin" constant="1" id="RMk-dE-0wm"/>
                             <constraint firstItem="f6M-AV-Bge" firstAttribute="leading" secondItem="1xp-SQ-yqY" secondAttribute="trailing" constant="8" id="W89-rQ-Ky2"/>
                             <constraint firstItem="uzJ-nC-Zcl" firstAttribute="leading" secondItem="EFc-q6-PJT" secondAttribute="leadingMargin" constant="1" id="Wfj-7q-9sd"/>
                             <constraint firstAttribute="leadingMargin" secondItem="iNv-HO-cC0" secondAttribute="leading" id="XLj-pB-1KW"/>
@@ -260,10 +267,6 @@
                                     <navigationItem title="Cal Sports Network" id="clI-K6-3OA"/>
                                 </items>
                             </navigationBar>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="oski-clear.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="m2t-eT-DSi">
-                                <rect key="frame" x="25" y="0.0" width="39" height="32"/>
-                                <animations/>
-                            </imageView>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="40" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="MAh-z0-R9i">
                                 <rect key="frame" x="0.0" y="277" width="414" height="459"/>
                                 <animations/>
@@ -285,6 +288,10 @@
                                 <rect key="frame" x="0.0" y="44" width="414" height="231"/>
                                 <animations/>
                             </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="oski-clear.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="m2t-eT-DSi">
+                                <rect key="frame" x="300" y="6" width="39" height="32"/>
+                                <animations/>
+                            </imageView>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -293,7 +300,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AEs-3d-2Yh" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="794" y="277"/>
+            <point key="canvasLocation" x="800" y="277"/>
         </scene>
         <!--Sports View Controller-->
         <scene sceneID="9nt-58-8Qs">
@@ -339,7 +346,7 @@
                                 </connections>
                             </tableView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="oski-clear.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="YWn-xW-M4i">
-                                <rect key="frame" x="26" y="6" width="39" height="32"/>
+                                <rect key="frame" x="300" y="6" width="39" height="32"/>
                                 <animations/>
                             </imageView>
                         </subviews>
