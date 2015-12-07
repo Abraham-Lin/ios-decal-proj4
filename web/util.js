@@ -8,6 +8,22 @@ module.exports = {
     parse: function (data, cb) {
         parseXML(data, cb);
     },
+    cleanGames: function (data) {
+        var out = [];
+        _.each(data, function (elem) {
+            var cur = {};
+            cur.home = {
+                name: data.bbgame.team[0].$.name,
+                score: data.bbgame.team[0].linescore[0].$.score
+            };
+            cur.away = {
+                name: data.bbgame.team[1].$.name,
+                score: data.bbgame.team[1].linescore[0].$.score
+            };
+            out.push(cur);
+        });
+        return out;
+    },
     getTeam: function (tid) {
         // query redis
     },
@@ -17,6 +33,7 @@ module.exports = {
             if (!data) {
                 cb(null, badDataString);
             } else {
+                data = module.exports.cleanGames(data);
                 cb(err, data);
             }
         });

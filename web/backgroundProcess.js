@@ -80,7 +80,7 @@ client.on('connect', function() {
                     var input = JSON.stringify(data);
                     if (!input) return;
                     client.get(gid, function (err, check_data) {
-                        //console.log(data.bbgame.plays[0].period);
+                        //console.log(data.bbgame);
                         if (!check_data) {
                             client.lpush('basketball', input);
                         }
