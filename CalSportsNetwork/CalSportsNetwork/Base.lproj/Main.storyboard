@@ -249,6 +249,9 @@
                                             <animations/>
                                         </tableViewCellContentView>
                                         <animations/>
+                                        <connections>
+                                            <segue destination="m85-P4-nVK" kind="show" id="dMf-kb-JvP"/>
+                                        </connections>
                                     </tableViewCell>
                                 </prototypes>
                             </tableView>
@@ -313,6 +316,9 @@
                                             <animations/>
                                         </tableViewCellContentView>
                                         <animations/>
+                                        <connections>
+                                            <segue destination="FlB-uN-kig" kind="show" id="oc1-7H-EsA"/>
+                                        </connections>
                                     </tableViewCell>
                                 </prototypes>
                                 <connections>
@@ -348,4 +354,7 @@
         <image name="oski-clear.jpg" width="218" height="175"/>
         <image name="stadium.jpg" width="578" height="362"/>
     </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="oc1-7H-EsA"/>
+    </inferredMetricsTieBreakers>
 </document>
