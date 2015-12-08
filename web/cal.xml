@@ -1,0 +1,693 @@
+<bbgame source="STAT CREW Basketball" version="4.16.01" generated="12/6/2015">
+  <venue gameid="04SMCVU"
+           visid="VU" visname="Villanova"
+           homeid="SMC" homename="St. Mary's (CA)"
+           date="12/6/2015" location="Haas Pavilion, Berkeley, Calif."
+           time="3 PM" attend="0" schednote="" start="" end="" duration=""
+           leaguegame="N" neutralgame="Y" postseason="N">
+    <officials text="Charles Gonzalez, Wanda Szeremeta, Ify Seales"></officials>
+    <notes>
+      <note text="Length of Game:  1:40"></note>
+    </notes>
+    <rules prds="4" minutes="10" minutesot="5" fouls="5" qh="Q"></rules>
+  </venue>
+  <status complete="Y" period="4" clock="00:00" running="F"></status>
+  <team vh="V" id="VU" name="Villanova" record="5-3">
+    <linescore line="12,16,18,14" score="60">
+      <lineprd prd="1" score="12"></lineprd>
+      <lineprd prd="2" score="16"></lineprd>
+      <lineprd prd="3" score="18"></lineprd>
+      <lineprd prd="4" score="14"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="21" fga="74" fgm3="9" fga3="46" ftm="9" fta="11" tp="60" blk="0" stl="7" ast="12" min="200" oreb="13" dreb="26" treb="39" pf="27" tf="0" to="4" deadball="1,0"
+             fgpct="28.4" fg3pct="19.6" ftpct="81.8"></stats>
+      <statsbyprd prd="1" fgm="10" fga="34" fgm3="6" fga3="23" ftm="2" fta="3" tp="28" blk="0" stl="5" ast="9" min="100" oreb="4" dreb="13" treb="17" pf="8" tf="0" to="2"></statsbyprd>
+      <statsbyprd prd="2" fgm="11" fga="40" fgm3="3" fga3="23" ftm="7" fta="8" tp="32" blk="0" stl="2" ast="3" min="100" oreb="9" dreb="13" treb="22" pf="19" tf="0" to="2"></statsbyprd>
+      <special vh="V" pts_to="9" pts_ch2="11" pts_paint="16" pts_fastb="0" pts_bench="25" ties="1" leads="2"
+               poss_count="72" poss_time="1281" score_count="25" score_time="449" lead_time="1243" tied_time="60" large_lead="11" large_lead_t="3rd-04:12"></special>
+    </totals>
+    <player uni="1" code="1" name="HERLIHY, Bridget" checkname="HERLIHY,BRIDGET" class="FR" gp="0"></player>
+    <player uni="2" code="2" name="LOUIN, Alex" checkname="LOUIN,ALEX" class="SO" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="2" fga="15" fgm3="2" fga3="14" ftm="2" fta="2" tp="8" blk="0" stl="1" ast="3" min="31" oreb="0" dreb="6" treb="6" pf="3" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="6" fgm3="2" fga3="6" ftm="0" fta="0" tp="6" blk="0" stl="1" ast="1" min="13" oreb="0" dreb="3" treb="3" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="9" fgm3="0" fga3="8" ftm="2" fta="2" tp="2" blk="0" stl="0" ast="2" min="18" oreb="0" dreb="3" treb="3" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="4" code="4" name="CRISPIN, Karlie" checkname="CRISPIN,KARLIE" class="JR" gp="0"></player>
+    <player uni="5" code="5" name="COYER, Caroline" checkname="COYER,CAROLINE" class="SR" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="5" fga="17" fgm3="2" fga3="10" ftm="1" fta="2" tp="13" blk="0" stl="1" ast="4" min="40" oreb="1" dreb="4" treb="5" pf="3" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="5" fgm3="0" fga3="3" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="4" min="20" oreb="0" dreb="3" treb="3" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="5" fga="12" fgm3="2" fga3="7" ftm="0" fta="0" tp="12" blk="0" stl="1" ast="0" min="20" oreb="1" dreb="1" treb="2" pf="3" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="10" code="10" name="COYER, Katherine" checkname="COYER,KATHERINE" class="SR" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="4" fga="7" fgm3="1" fga3="2" ftm="2" fta="2" tp="11" blk="0" stl="1" ast="1" min="34" oreb="1" dreb="4" treb="5" pf="2" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="3" fga="3" fgm3="1" fga3="1" ftm="1" fta="1" tp="8" blk="0" stl="1" ast="0" min="16" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="4" fgm3="0" fga3="1" ftm="1" fta="1" tp="3" blk="0" stl="0" ast="1" min="18" oreb="1" dreb="3" treb="4" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="11" code="11" name="DILLARD, Jordan" checkname="DILLARD,JORDAN" class="JR" gp="1">
+      <stats fgm="3" fga="7" fgm3="0" fga3="0" ftm="1" fta="1" tp="7" blk="0" stl="2" ast="3" min="26" oreb="2" dreb="1" treb="3" pf="5" tf="0" to="0" dq="1"></stats>
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="2" ast="3" min="11" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="4" fgm3="0" fga3="0" ftm="1" fta="1" tp="5" blk="0" stl="0" ast="0" min="15" oreb="2" dreb="1" treb="3" pf="4" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="12" code="12" name="QUINN, Megan" checkname="QUINN,MEGAN" class="SO" gp="1">
+      <stats fgm="4" fga="11" fgm3="3" fga3="8" ftm="0" fta="0" tp="11" blk="0" stl="1" ast="0" min="15" oreb="0" dreb="4" treb="4" pf="5" tf="0" to="1" dq="1"></stats>
+      <statsbyprd prd="1" fgm="2" fga="5" fgm3="2" fga3="4" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="0" min="8" oreb="0" dreb="3" treb="3" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="6" fgm3="1" fga3="4" ftm="0" fta="0" tp="5" blk="0" stl="1" ast="0" min="7" oreb="0" dreb="1" treb="1" pf="4" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="20" code="20" name="BRUNORI, Kate" checkname="BRUNORI,KATE" class="SR" gp="0"></player>
+    <player uni="22" code="22" name="BURTON, Kendall" checkname="BURTON,KENDALL" class="SR" gp="1" oncourt="Y">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="25" code="25" name="TEAGUE, Brandi" checkname="TEAGUE,BRANDI" class="JR" gp="1" gs="1" pos="f">
+      <stats fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="31" code="31" name="HAHN, Adrianna" checkname="HAHN,ADRIANNA" class="FR" gp="1" oncourt="Y">
+      <stats fgm="1" fga="6" fgm3="1" fga3="6" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="11" oreb="1" dreb="0" treb="1" pf="3" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="5" fgm3="1" fga3="5" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="6" oreb="1" dreb="0" treb="1" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="32" code="32" name="WILKES, Samantha" checkname="WILKES,SAMANTHA" class="JR" gp="1" gs="1" pos="f">
+      <stats fgm="0" fga="1" fgm3="0" fga3="1" ftm="3" fta="4" tp="3" blk="0" stl="0" ast="0" min="16" oreb="2" dreb="1" treb="3" pf="1" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="9" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="3" fta="4" tp="3" blk="0" stl="0" ast="0" min="7" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="35" code="35" name="EDWARDS, Kavunaa" checkname="EDWARDS,KAVUNAA" class="SR" gp="1">
+      <stats fgm="2" fga="8" fgm3="0" fga3="4" ftm="0" fta="0" tp="4" blk="0" stl="0" ast="1" min="21" oreb="3" dreb="6" treb="9" pf="5" tf="0" to="1" dq="1"></stats>
+      <statsbyprd prd="1" fgm="1" fga="5" fgm3="0" fga3="3" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="1" min="11" oreb="2" dreb="3" treb="5" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="3" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="10" oreb="1" dreb="3" treb="4" pf="5" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="45" code="45" name="STANT, Grace" checkname="STANT,GRACE" class="FR" gp="0"></player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" class="" gp="1">
+      <stats oreb="3" dreb="0" treb="3" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="3" dreb="0" treb="3" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <team vh="H" id="SMC" name="St. Mary's (CA)" record="7-2">
+    <linescore line="18,6,19,24" score="67">
+      <lineprd prd="1" score="18"></lineprd>
+      <lineprd prd="2" score="6"></lineprd>
+      <lineprd prd="3" score="19"></lineprd>
+      <lineprd prd="4" score="24"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="24" fga="51" fgm3="0" fga3="7" ftm="19" fta="27" tp="67" blk="1" stl="1" ast="8" min="200" oreb="6" dreb="41" treb="47" pf="11" tf="0" to="10" deadball="3,0"
+             fgpct="47.1" fg3pct="0.0" ftpct="70.4"></stats>
+      <statsbyprd prd="1" fgm="12" fga="26" fgm3="0" fga3="2" ftm="0" fta="2" tp="24" blk="0" stl="1" ast="6" min="100" oreb="2" dreb="21" treb="23" pf="4" tf="0" to="7"></statsbyprd>
+      <statsbyprd prd="2" fgm="12" fga="25" fgm3="0" fga3="5" ftm="19" fta="25" tp="43" blk="1" stl="0" ast="2" min="100" oreb="4" dreb="20" treb="24" pf="7" tf="0" to="3"></statsbyprd>
+      <special vh="H" pts_to="2" pts_ch2="6" pts_paint="40" pts_fastb="6" pts_bench="5" ties="1" leads="2"
+               poss_count="73" poss_time="1112" score_count="34" score_time="521" lead_time="1090" tied_time="60" large_lead="9" large_lead_t="1st-00:35"></special>
+    </totals>
+    <player uni="1" code="1" name="Nicholson,Lauren" checkname="NICHOLSON,LAUREN" class="" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="11" fga="15" fgm3="0" fga3="2" ftm="7" fta="8" tp="29" blk="0" stl="0" ast="0" min="36" oreb="1" dreb="2" treb="3" pf="1" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="5" fga="6" fgm3="0" fga3="1" ftm="0" fta="0" tp="10" blk="0" stl="0" ast="0" min="16" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="6" fga="9" fgm3="0" fga3="1" ftm="7" fta="8" tp="19" blk="0" stl="0" ast="0" min="20" oreb="1" dreb="2" treb="3" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="4" code="4" name="Galland,Devyn" checkname="GALLAND,DEVYN" class="" gp="1">
+      <stats fgm="1" fga="2" fgm3="0" fga3="0" ftm="1" fta="1" tp="3" blk="0" stl="0" ast="2" min="19" oreb="0" dreb="5" treb="5" pf="2" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="2" min="10" oreb="0" dreb="3" treb="3" pf="0" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="0" fga3="0" ftm="1" fta="1" tp="3" blk="0" stl="0" ast="0" min="9" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="5" code="5" name="Kaser, Hannah" checkname="KASER,HANNAH" class="" gp="1">
+      <stats fgm="1" fga="6" fgm3="0" fga3="3" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="3" min="17" oreb="0" dreb="6" treb="6" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="2" min="10" oreb="0" dreb="4" treb="4" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="4" fgm3="0" fga3="3" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="1" min="7" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="10" code="10" name="Turner, Carly" checkname="TURNER,CARLY" class="" gp="1">
+      <stats fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="6" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="5" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="11" code="11" name="Moore,Valerie" checkname="MOORE,VALERIE" class="" gp="0"></player>
+    <player uni="12" code="12" name="Raggio,Sydney" checkname="RAGGIO,SYDNEY" class="FR" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="3" fga="7" fgm3="0" fga3="1" ftm="1" fta="2" tp="7" blk="1" stl="0" ast="0" min="30" oreb="0" dreb="9" treb="9" pf="3" tf="0" to="3" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="4" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="13" oreb="0" dreb="6" treb="6" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="3" fgm3="0" fga3="0" ftm="1" fta="2" tp="5" blk="1" stl="0" ast="0" min="17" oreb="0" dreb="3" treb="3" pf="2" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="13" code="13" name="Janko, Lisa" checkname="JANKO,LISA" class="" gp="0"></player>
+    <player uni="14" code="14" name="Mauldin,Shannon" checkname="MAULDIN,SHANNON" class="" gp="0"></player>
+    <player uni="20" code="20" name="Rathbun, Katie" checkname="RATHBUN,KATIE" class="" gp="1">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="21" code="21" name="Beck, Stella" checkname="BECK,STELLA" class="" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="2" fga="8" fgm3="0" fga3="1" ftm="7" fta="10" tp="11" blk="0" stl="0" ast="1" min="28" oreb="3" dreb="4" treb="7" pf="0" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="5" fgm3="0" fga3="0" ftm="0" fta="2" tp="4" blk="0" stl="0" ast="0" min="14" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="3" fgm3="0" fga3="1" ftm="7" fta="8" tp="7" blk="0" stl="0" ast="1" min="14" oreb="2" dreb="3" treb="5" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="22" code="22" name="Brookshire,Devon" checkname="BROOKSHIRE,DEVON" class="JR" gp="1" gs="1" pos="f" oncourt="Y">
+      <stats fgm="5" fga="9" fgm3="0" fga3="0" ftm="2" fta="4" tp="12" blk="0" stl="1" ast="1" min="30" oreb="1" dreb="4" treb="5" pf="0" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="3" fga="5" fgm3="0" fga3="0" ftm="0" fta="0" tp="6" blk="0" stl="1" ast="1" min="12" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="4" fgm3="0" fga3="0" ftm="2" fta="4" tp="6" blk="0" stl="0" ast="0" min="18" oreb="1" dreb="2" treb="3" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="23" code="23" name="Mccoy,Alia" checkname="MCCOY,ALIA" class="" gp="0"></player>
+    <player uni="24" code="24" name="McDonald, Samira" checkname="MCDONALD,SAMIRA" class="" gp="1" gs="1" pos="f" oncourt="Y">
+      <stats fgm="1" fga="1" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="0" stl="0" ast="0" min="24" oreb="0" dreb="4" treb="4" pf="4" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="10" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="0" min="14" oreb="0" dreb="4" treb="4" pf="3" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="25" code="25" name="McKay, Megan" checkname="MCKAY,MEGAN" class="" gp="1">
+      <stats fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" class="" gp="1">
+      <stats oreb="1" dreb="5" treb="6" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" oreb="1" dreb="4" treb="5" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <plays format="tokens">
+    <period number="1" time="10:00">
+      <special vh="V" pts_to="0" pts_ch2="0" pts_paint="0" pts_fastb="0" pts_bench="8" ties="1" leads="1"
+               poss_count="18" poss_time="321" score_count="5" score_time="90" lead_time="130" tied_time="60" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="2" pts_ch2="0" pts_paint="14" pts_fastb="2" pts_bench="0" ties="0" leads="1"
+               poss_count="18" poss_time="272" score_count="9" score_time="124" lead_time="403" tied_time="60" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="10" fga="34" fgm3="6" fga3="23" ftm="2" fta="3" blk="0" stl="5" ast="9"
+               oreb="4" dreb="13" treb="17" pf="8" tf="0" to="2"></summary>
+      <summary vh="H" fgm="12" fga="26" fgm3="0" fga3="2" ftm="0" fta="2" blk="0" stl="1" ast="6"
+               oreb="2" dreb="21" treb="23" pf="4" tf="0" to="7"></summary>
+      <play vh="V" time="09:54" uni="10" team="VU" checkname="COYER,KATHERINE" action="TURNOVER"></play>
+      <play vh="H" time="09:53" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="STEAL"></play>
+      <play vh="H" time="09:43" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="LAYUP" paint="Y" vscore="0" hscore="2"></play>
+      <play vh="V" time="09:28" uni="25" team="VU" checkname="TEAGUE,BRANDI" action="MISS" type="3PTR"></play>
+      <play vh="H" time="09:28" uni="TM" team="SMC" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="08:54" uni="21" team="SMC" checkname="BECK,STELLA" action="TURNOVER"></play>
+      <play vh="V" time="08:36" uni="25" team="VU" checkname="TEAGUE,BRANDI" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="08:36" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="08:19" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="GOOD" type="LAYUP" paint="Y" vscore="0" hscore="4"></play>
+      <play vh="H" time="08:03" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="FOUL"></play>
+      <play vh="H" time="07:53" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="FOUL"></play>
+      <play vh="V" time="07:53" uni="5" team="VU" checkname="COYER,CAROLINE" action="GOOD" type="FT" vscore="1" hscore="4"></play>
+      <play vh="V" time="07:53" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="FT"></play>
+      <play vh="H" time="07:53" uni="21" team="SMC" checkname="BECK,STELLA" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:44" uni="21" team="SMC" checkname="BECK,STELLA" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="07:44" uni="21" team="SMC" checkname="BECK,STELLA" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="07:33" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="07:33" uni="5" team="VU" checkname="COYER,CAROLINE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:14" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="FOUL"></play>
+      <play vh="V" time="07:14" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="TURNOVER"></play>
+      <play vh="H" time="06:53" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="06:53" uni="2" team="VU" checkname="LOUIN,ALEX" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:40" uni="10" team="VU" checkname="COYER,KATHERINE" action="GOOD" type="3PTR" vscore="4" hscore="4"></play>
+      <play vh="V" time="06:40" uni="2" team="VU" checkname="LOUIN,ALEX" action="ASSIST"></play>
+      <play vh="H" time="06:31" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="TURNOVER"></play>
+      <play vh="V" time="06:30" uni="25" team="VU" checkname="TEAGUE,BRANDI" action="STEAL"></play>
+      <play vh="V" time="06:20" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="06:20" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:07" uni="2" team="VU" checkname="LOUIN,ALEX" action="FOUL"></play>
+      <play vh="V" time="06:07" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="IN"></play>
+      <play vh="V" time="06:07" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="IN"></play>
+      <play vh="V" time="06:07" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="IN"></play>
+      <play vh="V" time="06:07" uni="2" team="VU" checkname="LOUIN,ALEX" action="SUB" type="OUT"></play>
+      <play vh="V" time="06:07" uni="25" team="VU" checkname="TEAGUE,BRANDI" action="SUB" type="OUT"></play>
+      <play vh="V" time="06:07" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:06" uni="5" team="SMC" checkname="KASER,HANNAH" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="06:06" uni="12" team="VU" checkname="QUINN,MEGAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="05:57" uni="12" team="VU" checkname="QUINN,MEGAN" action="GOOD" type="3PTR" vscore="7" hscore="4"></play>
+      <play vh="V" time="05:57" uni="5" team="VU" checkname="COYER,CAROLINE" action="ASSIST"></play>
+      <play vh="H" time="05:53" uni="25" team="SMC" checkname="MCKAY,MEGAN" action="SUB" type="IN"></play>
+      <play vh="H" time="05:53" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="SUB" type="IN"></play>
+      <play vh="H" time="05:53" uni="5" team="SMC" checkname="KASER,HANNAH" action="SUB" type="IN"></play>
+      <play vh="H" time="05:53" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:53" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:53" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:33" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="GOOD" type="JUMPER" vscore="7" hscore="6"></play>
+      <play vh="H" time="05:33" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="ASSIST"></play>
+      <play vh="V" time="05:14" uni="12" team="VU" checkname="QUINN,MEGAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="05:14" uni="5" team="SMC" checkname="KASER,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="04:56" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="04:56" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="04:41" uni="11" team="VU" checkname="DILLARD,JORDAN" action="GOOD" type="JUMPER" vscore="9" hscore="6"></play>
+      <play vh="V" time="04:41" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="ASSIST"></play>
+      <play vh="H" time="04:23" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="LAYUP" paint="Y" vscore="9" hscore="8"></play>
+      <play vh="V" time="03:53" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="03:53" uni="TM" team="SMC" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:49" uni="TM" team="SMC" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="V" time="03:49" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="IN"></play>
+      <play vh="V" time="03:49" uni="10" team="VU" checkname="COYER,KATHERINE" action="SUB" type="OUT"></play>
+      <play vh="H" time="03:49" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="SUB" type="IN"></play>
+      <play vh="H" time="03:49" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="IN"></play>
+      <play vh="H" time="03:49" uni="25" team="SMC" checkname="MCKAY,MEGAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="03:49" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="SUB" type="OUT"></play>
+      <play vh="H" time="03:47" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="GOOD" type="JUMPER" paint="Y" vscore="9" hscore="10"></play>
+      <play vh="H" time="03:47" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="ASSIST"></play>
+      <play vh="V" time="03:19" uni="11" team="VU" checkname="DILLARD,JORDAN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:19" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="03:08" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="FOUL"></play>
+      <play vh="H" time="03:07" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="JUMPER" vscore="9" hscore="12"></play>
+      <play vh="H" time="03:07" uni="5" team="SMC" checkname="KASER,HANNAH" action="ASSIST"></play>
+      <play vh="V" time="02:45" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="02:45" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="02:24" uni="5" team="SMC" checkname="KASER,HANNAH" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="02:24" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="02:09" uni="12" team="VU" checkname="QUINN,MEGAN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="02:09" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="01:57" uni="21" team="SMC" checkname="BECK,STELLA" action="GOOD" type="LAYUP" paint="Y" vscore="9" hscore="14"></play>
+      <play vh="V" time="01:45" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:45" uni="5" team="SMC" checkname="KASER,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="01:33" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="9" hscore="16"></play>
+      <play vh="V" time="01:03" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:03" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:53" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="TURNOVER"></play>
+      <play vh="V" time="00:51" uni="11" team="VU" checkname="DILLARD,JORDAN" action="STEAL"></play>
+      <play vh="V" time="00:47" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:47" uni="5" team="SMC" checkname="KASER,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:35" uni="21" team="SMC" checkname="BECK,STELLA" action="GOOD" type="LAYUP" paint="Y" vscore="9" hscore="18"></play>
+      <play vh="H" time="00:35" uni="5" team="SMC" checkname="KASER,HANNAH" action="ASSIST"></play>
+      <play vh="V" time="00:08" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="GOOD" type="3PTR" vscore="12" hscore="18"></play>
+      <play vh="V" time="00:08" uni="5" team="VU" checkname="COYER,CAROLINE" action="ASSIST"></play>
+      <play vh="V" time="00:01" uni="11" team="VU" checkname="DILLARD,JORDAN" action="FOUL"></play>
+      <play vh="V" time="00:01" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="IN"></play>
+      <play vh="V" time="00:01" uni="10" team="VU" checkname="COYER,KATHERINE" action="SUB" type="IN"></play>
+      <play vh="V" time="00:01" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:01" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:01" uni="25" team="SMC" checkname="MCKAY,MEGAN" action="SUB" type="IN"></play>
+      <play vh="H" time="00:01" uni="10" team="SMC" checkname="TURNER,CARLY" action="SUB" type="IN"></play>
+      <play vh="H" time="00:01" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="IN"></play>
+      <play vh="H" time="00:01" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="SUB" type="IN"></play>
+      <play vh="H" time="00:01" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:01" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:01" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:01" uni="5" team="SMC" checkname="KASER,HANNAH" action="SUB" type="OUT"></play>
+      <clock time="00:00"></clock>
+    </period>
+    <period number="2" time="10:00">
+      <special vh="V" pts_to="5" pts_ch2="5" pts_paint="6" pts_fastb="0" pts_bench="5" ties="0" leads="1"
+               poss_count="16" poss_time="326" score_count="6" score_time="128" lead_time="284" tied_time="0" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="0" pts_ch2="0" pts_paint="6" pts_fastb="0" pts_bench="0" ties="0" leads="0"
+               poss_count="17" poss_time="274" score_count="3" score_time="56" lead_time="316" tied_time="0" large_lead="-" large_lead_t="-"></special>
+      <play vh="H" time="09:50" uni="25" team="SMC" checkname="MCKAY,MEGAN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="09:50" uni="5" team="VU" checkname="COYER,CAROLINE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="09:46" uni="10" team="SMC" checkname="TURNER,CARLY" action="SUB" type="IN"></play>
+      <play vh="H" time="09:46" uni="20" team="SMC" checkname="RATHBUN,KATIE" action="SUB" type="IN"></play>
+      <play vh="H" time="09:46" uni="25" team="SMC" checkname="MCKAY,MEGAN" action="SUB" type="IN"></play>
+      <play vh="H" time="09:46" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="SUB" type="OUT"></play>
+      <play vh="H" time="09:46" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="SUB" type="OUT"></play>
+      <play vh="H" time="09:46" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="OUT"></play>
+      <play vh="V" time="09:36" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="MISS" type="3PTR"></play>
+      <play vh="V" time="09:36" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="09:32" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="IN"></play>
+      <play vh="V" time="09:32" uni="25" team="VU" checkname="TEAGUE,BRANDI" action="SUB" type="OUT"></play>
+      <play vh="V" time="08:54" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="MISS" type="3PTR"></play>
+      <play vh="V" time="08:54" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="08:34" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="08:34" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="08:12" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="08:12" uni="10" team="VU" checkname="COYER,KATHERINE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:59" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="07:59" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:49" uni="10" team="SMC" checkname="TURNER,CARLY" action="TURNOVER"></play>
+      <play vh="V" time="07:48" uni="10" team="VU" checkname="COYER,KATHERINE" action="STEAL"></play>
+      <play vh="V" time="07:34" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="07:34" uni="10" team="SMC" checkname="TURNER,CARLY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:25" uni="10" team="SMC" checkname="TURNER,CARLY" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="07:25" uni="TM" team="SMC" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="07:21" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="IN"></play>
+      <play vh="V" time="07:21" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="IN"></play>
+      <play vh="V" time="07:21" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:21" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:21" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="SUB" type="IN"></play>
+      <play vh="H" time="07:21" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="SUB" type="IN"></play>
+      <play vh="H" time="07:21" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="IN"></play>
+      <play vh="H" time="07:21" uni="5" team="SMC" checkname="KASER,HANNAH" action="SUB" type="IN"></play>
+      <play vh="H" time="07:21" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="SUB" type="IN"></play>
+      <play vh="H" time="07:21" uni="10" team="SMC" checkname="TURNER,CARLY" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:21" uni="20" team="SMC" checkname="RATHBUN,KATIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:21" uni="25" team="SMC" checkname="MCKAY,MEGAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:21" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:21" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:08" uni="11" team="VU" checkname="DILLARD,JORDAN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="07:08" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:00" uni="10" team="VU" checkname="COYER,KATHERINE" action="FOUL"></play>
+      <play vh="H" time="07:00" uni="21" team="SMC" checkname="BECK,STELLA" action="MISS" type="FT"></play>
+      <play vh="H" time="07:00" uni="TM" team="SMC" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="07:00" uni="21" team="SMC" checkname="BECK,STELLA" action="MISS" type="FT"></play>
+      <play vh="V" time="07:00" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:37" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="06:37" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="06:32" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="TURNOVER"></play>
+      <play vh="V" time="06:30" uni="11" team="VU" checkname="DILLARD,JORDAN" action="STEAL"></play>
+      <play vh="H" time="06:16" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="FOUL"></play>
+      <play vh="V" time="06:15" uni="10" team="VU" checkname="COYER,KATHERINE" action="GOOD" type="LAYUP" paint="Y" vscore="14" hscore="18"></play>
+      <play vh="V" time="06:15" uni="11" team="VU" checkname="DILLARD,JORDAN" action="ASSIST"></play>
+      <play vh="H" time="06:05" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="TURNOVER"></play>
+      <play vh="H" time="06:05" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="IN"></play>
+      <play vh="H" time="06:05" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="SUB" type="OUT"></play>
+      <play vh="V" time="05:46" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="05:46" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="05:40" uni="2" team="VU" checkname="LOUIN,ALEX" action="GOOD" type="3PTR" vscore="17" hscore="18"></play>
+      <play vh="V" time="05:40" uni="11" team="VU" checkname="DILLARD,JORDAN" action="ASSIST"></play>
+      <play vh="H" time="05:19" uni="21" team="SMC" checkname="BECK,STELLA" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="05:19" uni="2" team="VU" checkname="LOUIN,ALEX" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="04:49" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="04:49" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="04:44" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="GOOD" type="JUMPER" paint="Y" vscore="19" hscore="18"></play>
+      <play vh="H" time="04:27" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="04:27" uni="2" team="VU" checkname="LOUIN,ALEX" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="04:11" uni="2" team="VU" checkname="LOUIN,ALEX" action="GOOD" type="3PTR" vscore="22" hscore="18"></play>
+      <play vh="V" time="04:11" uni="5" team="VU" checkname="COYER,CAROLINE" action="ASSIST"></play>
+      <play vh="H" time="03:52" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="TURNOVER"></play>
+      <play vh="V" time="03:51" uni="2" team="VU" checkname="LOUIN,ALEX" action="STEAL"></play>
+      <play vh="V" time="03:34" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:34" uni="5" team="SMC" checkname="KASER,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:26" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="MISS" type="3PTR"></play>
+      <play vh="V" time="03:26" uni="5" team="VU" checkname="COYER,CAROLINE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="03:01" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="03:01" uni="TM" team="SMC" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="02:58" uni="TM" team="SMC" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="02:54" uni="10" team="SMC" checkname="TURNER,CARLY" action="SUB" type="IN"></play>
+      <play vh="H" time="02:54" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="SUB" type="IN"></play>
+      <play vh="H" time="02:54" uni="20" team="SMC" checkname="RATHBUN,KATIE" action="SUB" type="IN"></play>
+      <play vh="H" time="02:54" uni="25" team="SMC" checkname="MCKAY,MEGAN" action="SUB" type="IN"></play>
+      <play vh="H" time="02:54" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="SUB" type="IN"></play>
+      <play vh="H" time="02:54" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:54" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:54" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:54" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:54" uni="5" team="SMC" checkname="KASER,HANNAH" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:36" uni="10" team="SMC" checkname="TURNER,CARLY" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="02:36" uni="12" team="VU" checkname="QUINN,MEGAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="02:29" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="IN"></play>
+      <play vh="V" time="02:29" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="IN"></play>
+      <play vh="V" time="02:29" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="02:29" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="OUT"></play>
+      <play vh="V" time="02:20" uni="12" team="VU" checkname="QUINN,MEGAN" action="GOOD" type="3PTR" vscore="25" hscore="18"></play>
+      <play vh="V" time="02:20" uni="5" team="VU" checkname="COYER,CAROLINE" action="ASSIST"></play>
+      <play vh="H" time="02:09" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="GOOD" type="LAYUP" paint="Y" vscore="25" hscore="20"></play>
+      <play vh="H" time="02:09" uni="10" team="SMC" checkname="TURNER,CARLY" action="ASSIST"></play>
+      <play vh="V" time="01:47" uni="12" team="VU" checkname="QUINN,MEGAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:47" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="01:28" uni="12" team="VU" checkname="QUINN,MEGAN" action="FOUL"></play>
+      <play vh="V" time="01:28" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="IN"></play>
+      <play vh="V" time="01:28" uni="5" team="VU" checkname="COYER,CAROLINE" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:28" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="IN"></play>
+      <play vh="H" time="01:28" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="SUB" type="IN"></play>
+      <play vh="H" time="01:28" uni="20" team="SMC" checkname="RATHBUN,KATIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:28" uni="25" team="SMC" checkname="MCKAY,MEGAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="01:27" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="FOUL"></play>
+      <play vh="V" time="01:17" uni="2" team="VU" checkname="LOUIN,ALEX" action="FOUL"></play>
+      <play vh="V" time="01:17" uni="25" team="VU" checkname="TEAGUE,BRANDI" action="SUB" type="IN"></play>
+      <play vh="V" time="01:17" uni="5" team="VU" checkname="COYER,CAROLINE" action="SUB" type="IN"></play>
+      <play vh="V" time="01:17" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="01:17" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:09" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="GOOD" type="JUMPER" paint="Y" vscore="25" hscore="22"></play>
+      <play vh="V" time="00:50" uni="10" team="VU" checkname="COYER,KATHERINE" action="GOOD" type="LAYUP" paint="Y" vscore="27" hscore="22"></play>
+      <play vh="V" time="00:50" uni="11" team="VU" checkname="DILLARD,JORDAN" action="ASSIST"></play>
+      <play vh="H" time="00:50" uni="10" team="SMC" checkname="TURNER,CARLY" action="FOUL"></play>
+      <play vh="V" time="00:50" uni="10" team="VU" checkname="COYER,KATHERINE" action="GOOD" type="FT" vscore="28" hscore="22"></play>
+      <play vh="H" time="00:43" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="JUMPER" paint="Y" vscore="28" hscore="24"></play>
+      <play vh="H" time="00:43" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="ASSIST"></play>
+      <play vh="V" time="00:38" uni="TM" team="VU" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="00:38" uni="22" team="VU" checkname="BURTON,KENDALL" action="SUB" type="IN"></play>
+      <play vh="V" time="00:38" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="IN"></play>
+      <play vh="V" time="00:38" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="IN"></play>
+      <play vh="V" time="00:38" uni="2" team="VU" checkname="LOUIN,ALEX" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:38" uni="25" team="VU" checkname="TEAGUE,BRANDI" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:38" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:33" uni="20" team="SMC" checkname="RATHBUN,KATIE" action="SUB" type="IN"></play>
+      <play vh="H" time="00:33" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:13" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:13" uni="TM" team="SMC" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:07" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="IN"></play>
+      <play vh="H" time="00:07" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="IN"></play>
+      <play vh="H" time="00:07" uni="10" team="SMC" checkname="TURNER,CARLY" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:07" uni="20" team="SMC" checkname="RATHBUN,KATIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:01" uni="21" team="SMC" checkname="BECK,STELLA" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="00:01" uni="12" team="VU" checkname="QUINN,MEGAN" action="REBOUND" type="DEF"></play>
+      <clock time="00:00"></clock>
+    </period>
+    <period number="3" time="10:00">
+      <special vh="V" pts_to="0" pts_ch2="3" pts_paint="4" pts_fastb="0" pts_bench="12" ties="0" leads="0"
+               poss_count="17" poss_time="331" score_count="7" score_time="151" lead_time="600" tied_time="0" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="0" pts_ch2="4" pts_paint="12" pts_fastb="4" pts_bench="5" ties="0" leads="0"
+               poss_count="17" poss_time="269" score_count="8" score_time="140" lead_time="0" tied_time="0" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="11" fga="40" fgm3="3" fga3="23" ftm="7" fta="8" blk="0" stl="2" ast="3"
+               oreb="9" dreb="13" treb="22" pf="19" tf="0" to="2"></summary>
+      <summary vh="H" fgm="12" fga="25" fgm3="0" fga3="5" ftm="19" fta="25" blk="1" stl="0" ast="2"
+               oreb="4" dreb="20" treb="24" pf="7" tf="0" to="3"></summary>
+      <play vh="V" time="09:53" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="IN"></play>
+      <play vh="V" time="09:53" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="IN"></play>
+      <play vh="V" time="09:53" uni="25" team="VU" checkname="TEAGUE,BRANDI" action="SUB" type="OUT"></play>
+      <play vh="V" time="09:53" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="OUT"></play>
+      <play vh="V" time="09:51" uni="11" team="VU" checkname="DILLARD,JORDAN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="09:50" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="09:33" uni="21" team="SMC" checkname="BECK,STELLA" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="09:33" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="09:29" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="GOOD" type="JUMPER" vscore="30" hscore="24"></play>
+      <play vh="V" time="09:29" uni="10" team="VU" checkname="COYER,KATHERINE" action="ASSIST"></play>
+      <play vh="H" time="09:09" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="GOOD" type="LAYUP" paint="Y" vscore="30" hscore="26"></play>
+      <play vh="H" time="09:09" uni="21" team="SMC" checkname="BECK,STELLA" action="ASSIST"></play>
+      <play vh="V" time="08:54" uni="11" team="VU" checkname="DILLARD,JORDAN" action="GOOD" type="JUMPER" vscore="32" hscore="26"></play>
+      <play vh="V" time="08:54" uni="2" team="VU" checkname="LOUIN,ALEX" action="ASSIST"></play>
+      <play vh="H" time="08:17" uni="21" team="SMC" checkname="BECK,STELLA" action="MISS" type="3PTR"></play>
+      <play vh="V" time="08:17" uni="10" team="VU" checkname="COYER,KATHERINE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:55" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="FOUL"></play>
+      <play vh="V" time="07:55" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="TURNOVER"></play>
+      <play vh="H" time="07:55" uni="5" team="SMC" checkname="KASER,HANNAH" action="SUB" type="IN"></play>
+      <play vh="H" time="07:55" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:46" uni="5" team="SMC" checkname="KASER,HANNAH" action="MISS" type="3PTR"></play>
+      <play vh="V" time="07:46" uni="11" team="VU" checkname="DILLARD,JORDAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:33" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="07:33" uni="5" team="SMC" checkname="KASER,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:23" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="07:23" uni="10" team="VU" checkname="COYER,KATHERINE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:59" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="06:59" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="06:52" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="06:52" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="06:48" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="GOOD" type="LAYUP" paint="Y" vscore="32" hscore="28"></play>
+      <play vh="V" time="06:27" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="06:27" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="06:15" uni="5" team="SMC" checkname="KASER,HANNAH" action="MISS" type="3PTR"></play>
+      <play vh="V" time="06:15" uni="2" team="VU" checkname="LOUIN,ALEX" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="05:49" uni="5" team="VU" checkname="COYER,CAROLINE" action="GOOD" type="3PTR" vscore="35" hscore="28"></play>
+      <play vh="H" time="05:35" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="05:35" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="05:13" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="05:13" uni="11" team="VU" checkname="DILLARD,JORDAN" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="05:10" uni="11" team="VU" checkname="DILLARD,JORDAN" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="05:10" uni="11" team="VU" checkname="DILLARD,JORDAN" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="05:05" uni="11" team="VU" checkname="DILLARD,JORDAN" action="GOOD" type="JUMPER" paint="Y" vscore="37" hscore="28"></play>
+      <play vh="H" time="05:05" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="FOUL"></play>
+      <play vh="V" time="05:05" uni="11" team="VU" checkname="DILLARD,JORDAN" action="GOOD" type="FT" vscore="38" hscore="28"></play>
+      <play vh="V" time="05:05" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="IN"></play>
+      <play vh="V" time="05:05" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="IN"></play>
+      <play vh="V" time="05:05" uni="2" team="VU" checkname="LOUIN,ALEX" action="SUB" type="OUT"></play>
+      <play vh="V" time="05:05" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="OUT"></play>
+      <play vh="V" time="04:48" uni="12" team="VU" checkname="QUINN,MEGAN" action="FOUL"></play>
+      <play vh="H" time="04:48" uni="TM" team="SMC" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="04:48" uni="21" team="SMC" checkname="BECK,STELLA" action="GOOD" type="FT" vscore="38" hscore="29"></play>
+      <play vh="H" time="04:48" uni="21" team="SMC" checkname="BECK,STELLA" action="GOOD" type="FT" vscore="38" hscore="30"></play>
+      <play vh="H" time="04:48" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="SUB" type="IN"></play>
+      <play vh="H" time="04:48" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="IN"></play>
+      <play vh="H" time="04:48" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="SUB" type="OUT"></play>
+      <play vh="H" time="04:48" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="OUT"></play>
+      <play vh="H" time="04:47" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="SUB" type="IN"></play>
+      <play vh="H" time="04:47" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="SUB" type="OUT"></play>
+      <play vh="H" time="04:30" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="FOUL"></play>
+      <play vh="V" time="04:12" uni="12" team="VU" checkname="QUINN,MEGAN" action="GOOD" type="3PTR" vscore="41" hscore="30"></play>
+      <play vh="V" time="03:59" uni="11" team="VU" checkname="DILLARD,JORDAN" action="FOUL"></play>
+      <play vh="H" time="03:57" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="JUMPER" vscore="41" hscore="32"></play>
+      <play vh="V" time="03:40" uni="12" team="VU" checkname="QUINN,MEGAN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:40" uni="5" team="SMC" checkname="KASER,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:32" uni="5" team="SMC" checkname="KASER,HANNAH" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="41" hscore="34"></play>
+      <play vh="V" time="03:04" uni="12" team="VU" checkname="QUINN,MEGAN" action="GOOD" type="JUMPER" vscore="43" hscore="34"></play>
+      <play vh="V" time="02:48" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="FOUL"></play>
+      <play vh="V" time="02:48" uni="2" team="VU" checkname="LOUIN,ALEX" action="SUB" type="IN"></play>
+      <play vh="V" time="02:48" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:48" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="SUB" type="IN"></play>
+      <play vh="H" time="02:48" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:47" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="JUMPER" paint="Y" vscore="43" hscore="36"></play>
+      <play vh="H" time="02:47" uni="5" team="SMC" checkname="KASER,HANNAH" action="ASSIST"></play>
+      <play vh="V" time="02:20" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="02:20" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="02:04" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="02:04" uni="21" team="SMC" checkname="BECK,STELLA" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="01:56" uni="5" team="SMC" checkname="KASER,HANNAH" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:56" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="01:38" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="LAYUP" paint="Y" vscore="43" hscore="38"></play>
+      <play vh="V" time="01:19" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:19" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="01:10" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="43" hscore="40"></play>
+      <play vh="V" time="01:10" uni="12" team="VU" checkname="QUINN,MEGAN" action="FOUL"></play>
+      <play vh="H" time="01:10" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="GOOD" type="FT" vscore="43" hscore="41"></play>
+      <play vh="V" time="01:10" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="IN"></play>
+      <play vh="V" time="01:10" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="IN"></play>
+      <play vh="V" time="01:10" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="01:10" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:10" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="IN"></play>
+      <play vh="H" time="01:10" uni="10" team="SMC" checkname="TURNER,CARLY" action="SUB" type="IN"></play>
+      <play vh="H" time="01:10" uni="5" team="SMC" checkname="KASER,HANNAH" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:10" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:58" uni="10" team="VU" checkname="COYER,KATHERINE" action="GOOD" type="LAYUP" paint="Y" vscore="45" hscore="41"></play>
+      <play vh="V" time="00:58" uni="2" team="VU" checkname="LOUIN,ALEX" action="ASSIST"></play>
+      <play vh="H" time="00:58" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="FOUL"></play>
+      <play vh="V" time="00:58" uni="10" team="VU" checkname="COYER,KATHERINE" action="GOOD" type="FT" vscore="46" hscore="41"></play>
+      <play vh="V" time="00:40" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="FOUL"></play>
+      <play vh="H" time="00:40" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="FT" vscore="46" hscore="42"></play>
+      <play vh="H" time="00:40" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="FT" vscore="46" hscore="43"></play>
+      <play vh="V" time="00:15" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:15" uni="10" team="SMC" checkname="TURNER,CARLY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:02" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="00:02" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="REBOUND" type="DEF"></play>
+      <clock time="00:00"></clock>
+    </period>
+    <period number="4" time="10:00">
+      <special vh="V" pts_to="4" pts_ch2="3" pts_paint="6" pts_fastb="0" pts_bench="0" ties="0" leads="0"
+               poss_count="21" poss_time="303" score_count="7" score_time="80" lead_time="229" tied_time="0" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="0" pts_ch2="2" pts_paint="8" pts_fastb="0" pts_bench="0" ties="1" leads="1"
+               poss_count="21" poss_time="297" score_count="14" score_time="201" lead_time="371" tied_time="0" large_lead="-" large_lead_t="-"></special>
+      <play vh="V" time="10:00" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="IN"></play>
+      <play vh="V" time="10:00" uni="25" team="VU" checkname="TEAGUE,BRANDI" action="SUB" type="OUT"></play>
+      <play vh="H" time="10:00" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="SUB" type="IN"></play>
+      <play vh="H" time="10:00" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="OUT"></play>
+      <play vh="H" time="09:41" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="TURNOVER"></play>
+      <play vh="V" time="09:32" uni="10" team="VU" checkname="COYER,KATHERINE" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="09:32" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="BLOCK"></play>
+      <play vh="V" time="09:32" uni="TM" team="VU" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="09:21" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="09:21" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="08:59" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="GOOD" type="LAYUP" paint="Y" vscore="46" hscore="45"></play>
+      <play vh="H" time="08:31" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="FOUL"></play>
+      <play vh="V" time="08:31" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="GOOD" type="FT" vscore="47" hscore="45"></play>
+      <play vh="V" time="08:31" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="GOOD" type="FT" vscore="48" hscore="45"></play>
+      <play vh="V" time="08:31" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="IN"></play>
+      <play vh="V" time="08:31" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:24" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="08:24" uni="2" team="VU" checkname="LOUIN,ALEX" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="08:10" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="FOUL"></play>
+      <play vh="V" time="08:10" uni="2" team="VU" checkname="LOUIN,ALEX" action="GOOD" type="FT" vscore="49" hscore="45"></play>
+      <play vh="V" time="08:10" uni="2" team="VU" checkname="LOUIN,ALEX" action="GOOD" type="FT" vscore="50" hscore="45"></play>
+      <play vh="H" time="07:59" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="07:59" uni="2" team="VU" checkname="LOUIN,ALEX" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:45" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="07:45" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:40" uni="11" team="VU" checkname="DILLARD,JORDAN" action="FOUL"></play>
+      <play vh="H" time="07:40" uni="21" team="SMC" checkname="BECK,STELLA" action="SUB" type="IN"></play>
+      <play vh="H" time="07:40" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:28" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="LAYUP" paint="Y" vscore="50" hscore="47"></play>
+      <play vh="V" time="06:58" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="V" time="06:58" uni="10" team="VU" checkname="COYER,KATHERINE" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="06:53" uni="10" team="VU" checkname="COYER,KATHERINE" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="06:53" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="06:42" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="LAYUP" paint="Y" vscore="50" hscore="49"></play>
+      <play vh="V" time="06:22" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="06:22" uni="21" team="SMC" checkname="BECK,STELLA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:11" uni="2" team="VU" checkname="LOUIN,ALEX" action="FOUL"></play>
+      <play vh="V" time="06:11" uni="TM" team="VU" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="H" time="06:11" uni="21" team="SMC" checkname="BECK,STELLA" action="GOOD" type="FT" vscore="50" hscore="50"></play>
+      <play vh="H" time="06:11" uni="21" team="SMC" checkname="BECK,STELLA" action="GOOD" type="FT" vscore="50" hscore="51"></play>
+      <play vh="V" time="06:11" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="IN"></play>
+      <play vh="V" time="06:11" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="IN"></play>
+      <play vh="V" time="06:11" uni="10" team="VU" checkname="COYER,KATHERINE" action="SUB" type="OUT"></play>
+      <play vh="V" time="06:11" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="OUT"></play>
+      <play vh="V" time="06:09" uni="12" team="VU" checkname="QUINN,MEGAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="06:09" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="06:04" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="SUB" type="IN"></play>
+      <play vh="H" time="06:04" uni="4" team="SMC" checkname="GALLAND,DEVYN" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:29" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="JUMPER" paint="Y" vscore="50" hscore="53"></play>
+      <play vh="V" time="05:07" uni="12" team="VU" checkname="QUINN,MEGAN" action="TURNOVER"></play>
+      <play vh="V" time="05:07" uni="12" team="VU" checkname="QUINN,MEGAN" action="FOUL"></play>
+      <play vh="V" time="05:03" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="IN"></play>
+      <play vh="V" time="05:03" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="04:45" uni="5" team="VU" checkname="COYER,CAROLINE" action="FOUL"></play>
+      <play vh="H" time="04:45" uni="TM" team="SMC" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="V" time="04:45" uni="10" team="VU" checkname="COYER,KATHERINE" action="SUB" type="IN"></play>
+      <play vh="V" time="04:45" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="OUT"></play>
+      <play vh="H" time="04:31" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="TURNOVER"></play>
+      <play vh="V" time="04:30" uni="5" team="VU" checkname="COYER,CAROLINE" action="STEAL"></play>
+      <play vh="V" time="04:27" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="04:27" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="04:26" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="FOUL"></play>
+      <play vh="V" time="04:26" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="MISS" type="FT"></play>
+      <play vh="V" time="04:26" uni="TM" team="VU" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="04:26" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="GOOD" type="FT" vscore="51" hscore="53"></play>
+      <play vh="V" time="04:05" uni="11" team="VU" checkname="DILLARD,JORDAN" action="FOUL"></play>
+      <play vh="H" time="04:05" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="MISS" type="FT"></play>
+      <play vh="H" time="04:05" uni="TM" team="SMC" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="04:05" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="GOOD" type="FT" vscore="51" hscore="54"></play>
+      <play vh="H" time="03:57" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="FOUL"></play>
+      <play vh="V" time="03:38" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="V" time="03:38" uni="TM" team="VU" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="03:21" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="03:21" uni="TM" team="SMC" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="03:17" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="IN"></play>
+      <play vh="V" time="03:17" uni="32" team="VU" checkname="WILKES,SAMANTHA" action="SUB" type="OUT"></play>
+      <play vh="H" time="03:07" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="GOOD" type="JUMPER" vscore="51" hscore="56"></play>
+      <play vh="V" time="02:50" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="02:50" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="02:20" uni="21" team="SMC" checkname="BECK,STELLA" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="02:20" uni="21" team="SMC" checkname="BECK,STELLA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="02:17" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="FOUL"></play>
+      <play vh="H" time="02:17" uni="21" team="SMC" checkname="BECK,STELLA" action="GOOD" type="FT" vscore="51" hscore="57"></play>
+      <play vh="H" time="02:17" uni="21" team="SMC" checkname="BECK,STELLA" action="GOOD" type="FT" vscore="51" hscore="58"></play>
+      <play vh="V" time="02:14" uni="TM" team="VU" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="02:11" uni="12" team="VU" checkname="QUINN,MEGAN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="02:11" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="02:06" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="IN"></play>
+      <play vh="V" time="02:06" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="02:03" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="02:03" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="01:54" uni="12" team="SMC" checkname="RAGGIO,SYDNEY" action="TURNOVER"></play>
+      <play vh="V" time="01:53" uni="12" team="VU" checkname="QUINN,MEGAN" action="STEAL"></play>
+      <play vh="V" time="01:50" uni="5" team="VU" checkname="COYER,CAROLINE" action="GOOD" type="3PTR" vscore="54" hscore="58"></play>
+      <play vh="V" time="01:39" uni="10" team="VU" checkname="COYER,KATHERINE" action="FOUL"></play>
+      <play vh="H" time="01:39" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="FT" vscore="54" hscore="59"></play>
+      <play vh="H" time="01:39" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="FT" vscore="54" hscore="60"></play>
+      <play vh="V" time="01:25" uni="12" team="VU" checkname="QUINN,MEGAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:25" uni="21" team="SMC" checkname="BECK,STELLA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="01:22" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="FOUL"></play>
+      <play vh="H" time="01:22" uni="21" team="SMC" checkname="BECK,STELLA" action="GOOD" type="FT" vscore="54" hscore="61"></play>
+      <play vh="H" time="01:22" uni="21" team="SMC" checkname="BECK,STELLA" action="MISS" type="FT"></play>
+      <play vh="V" time="01:22" uni="12" team="VU" checkname="QUINN,MEGAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="01:22" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="SUB" type="IN"></play>
+      <play vh="V" time="01:22" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="OUT"></play>
+      <play vh="V" time="01:14" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="V" time="01:14" uni="5" team="VU" checkname="COYER,CAROLINE" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="01:08" uni="5" team="VU" checkname="COYER,CAROLINE" action="GOOD" type="LAYUP" paint="Y" vscore="56" hscore="61"></play>
+      <play vh="V" time="01:00" uni="5" team="VU" checkname="COYER,CAROLINE" action="FOUL"></play>
+      <play vh="H" time="01:00" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="FT" vscore="56" hscore="62"></play>
+      <play vh="H" time="01:00" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="MISS" type="FT"></play>
+      <play vh="V" time="01:00" uni="10" team="VU" checkname="COYER,KATHERINE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="00:50" uni="5" team="VU" checkname="COYER,CAROLINE" action="GOOD" type="LAYUP" paint="Y" vscore="58" hscore="62"></play>
+      <play vh="V" time="00:47" uni="5" team="VU" checkname="COYER,CAROLINE" action="FOUL"></play>
+      <play vh="H" time="00:47" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="FT" vscore="58" hscore="63"></play>
+      <play vh="H" time="00:47" uni="1" team="SMC" checkname="NICHOLSON,LAUREN" action="GOOD" type="FT" vscore="58" hscore="64"></play>
+      <play vh="V" time="00:42" uni="5" team="VU" checkname="COYER,CAROLINE" action="GOOD" type="LAYUP" paint="Y" vscore="60" hscore="64"></play>
+      <play vh="V" time="00:41" uni="TM" team="VU" checkname="TEAM" action="TIMEOUT" type="TEAM"></play>
+      <play vh="V" time="00:41" uni="12" team="VU" checkname="QUINN,MEGAN" action="FOUL"></play>
+      <play vh="H" time="00:41" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="GOOD" type="FT" vscore="60" hscore="65"></play>
+      <play vh="H" time="00:41" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="MISS" type="FT"></play>
+      <play vh="V" time="00:41" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="00:41" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="IN"></play>
+      <play vh="V" time="00:41" uni="12" team="VU" checkname="QUINN,MEGAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:36" uni="31" team="VU" checkname="HAHN,ADRIANNA" action="MISS" type="3PTR"></play>
+      <play vh="V" time="00:36" uni="TM" team="VU" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="00:25" uni="2" team="VU" checkname="LOUIN,ALEX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:25" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="00:24" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="FOUL"></play>
+      <play vh="H" time="00:24" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="MISS" type="FT"></play>
+      <play vh="H" time="00:24" uni="TM" team="SMC" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="00:24" uni="22" team="SMC" checkname="BROOKSHIRE,DEVON" action="GOOD" type="FT" vscore="60" hscore="66"></play>
+      <play vh="V" time="00:24" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="IN"></play>
+      <play vh="V" time="00:24" uni="35" team="VU" checkname="EDWARDS,KAVUNAA" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:21" uni="10" team="VU" checkname="COYER,KATHERINE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:21" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="00:15" uni="11" team="VU" checkname="DILLARD,JORDAN" action="FOUL"></play>
+      <play vh="H" time="00:15" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="GOOD" type="FT" vscore="60" hscore="67"></play>
+      <play vh="H" time="00:15" uni="24" team="SMC" checkname="MCDONALD,SAMIRA" action="MISS" type="FT"></play>
+      <play vh="V" time="00:15" uni="5" team="VU" checkname="COYER,CAROLINE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="00:15" uni="22" team="VU" checkname="BURTON,KENDALL" action="SUB" type="IN"></play>
+      <play vh="V" time="00:15" uni="11" team="VU" checkname="DILLARD,JORDAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:10" uni="5" team="VU" checkname="COYER,CAROLINE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:10" uni="21" team="SMC" checkname="BECK,STELLA" action="REBOUND" type="DEF"></play>
+      <clock time="00:00"></clock>
+    </period>
+  </plays>
+</bbgame>

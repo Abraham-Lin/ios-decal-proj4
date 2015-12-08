@@ -1,0 +1,664 @@
+<bbgame source="STAT CREW Basketball" version="4.16.01" generated="12/3/2015">
+  <venue gameid="BC6E6C7A"
+           visid="ECU" visname="East Carolina"
+           homeid="CAL" homename="California"
+           date="11/20/2015" location="Haas Pavilion, Berkeley, Calif."
+           time="8:00 pm" attend="8658" schednote="" start="" end="" duration=""
+           leaguegame="N" neutralgame="N" postseason="N">
+    <officials text="Larry Spaulding, Keith Kimble, Randy Richardson"></officials>
+    <notes>
+      <note text="Length of Game: 1:58"></note>
+    </notes>
+    <rules prds="2" minutes="20" minutesot="5" fouls="5" qh="H"></rules>
+  </venue>
+  <status complete="Y" period="2" clock="00:00" running="F"></status>
+  <team vh="V" id="ECU" name="East Carolina" code="196" record="2-1">
+    <linescore line="26,36" score="62">
+      <lineprd prd="1" score="26"></lineprd>
+      <lineprd prd="2" score="36"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="18" fga="55" fgm3="5" fga3="15" ftm="21" fta="25" tp="62" blk="1" stl="6" ast="10" min="200" oreb="11" dreb="15" treb="26" pf="26" tf="0" to="10" deadball="3,1"
+             fgpct="32.7" fg3pct="33.3" ftpct="84.0"></stats>
+      <statsbyprd prd="1" fgm="8" fga="27" fgm3="3" fga3="7" ftm="7" fta="8" tp="26" blk="0" stl="3" ast="4" min="100" oreb="7" dreb="6" treb="13" pf="12" tf="0" to="7"></statsbyprd>
+      <statsbyprd prd="2" fgm="10" fga="28" fgm3="2" fga3="8" ftm="14" fta="17" tp="36" blk="1" stl="3" ast="6" min="100" oreb="4" dreb="9" treb="13" pf="14" tf="0" to="3"></statsbyprd>
+      <special vh="V" pts_to="15" pts_ch2="6" pts_paint="22" pts_fastb="4" pts_bench="13" ties="1" leads="1"
+               poss_count="68" poss_time="1259" score_count="28" score_time="472" lead_time="112" tied_time="120" large_lead="3" large_lead_t="1st-10:53"></special>
+    </totals>
+    <player uni="0" code="0" name="Riak, Deng" checkname="RIAK,DENG" class="" gp="1">
+      <stats fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="1" code="1" name="Bryant, Grant" checkname="BRYANT,GRANT" class="" gp="0"></player>
+    <player uni="2" code="2" name="White, Caleb" checkname="WHITE,CALEB" class="" gp="1" gs="1" pos="f" oncourt="Y">
+      <stats fgm="4" fga="11" fgm3="1" fga3="5" ftm="6" fta="6" tp="15" blk="0" stl="1" ast="1" min="40" oreb="1" dreb="2" treb="3" pf="4" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="5" fgm3="0" fga3="1" ftm="2" fta="2" tp="6" blk="0" stl="0" ast="0" min="20" oreb="1" dreb="1" treb="2" pf="2" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="6" fgm3="1" fga3="4" ftm="4" fta="4" tp="9" blk="0" stl="1" ast="1" min="20" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="3" code="3" name="Foster, Charles" checkname="FOSTER,CHARLES" class="" gp="0"></player>
+    <player uni="4" code="4" name="Williams, Prince" checkname="WILLIAMS,PRINCE" class="" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="1" fga="8" fgm3="0" fga3="0" ftm="2" fta="2" tp="4" blk="0" stl="2" ast="7" min="31" oreb="1" dreb="3" treb="4" pf="2" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="2" ast="3" min="16" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="5" fgm3="0" fga3="0" ftm="2" fta="2" tp="2" blk="0" stl="0" ast="4" min="15" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="5" code="5" name="Tejada. Lance" checkname="LANCE,TEJADA" class="" gp="1">
+      <stats fgm="0" fga="1" fgm3="0" fga3="1" ftm="2" fta="2" tp="2" blk="0" stl="1" ast="1" min="9" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="4" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="2" fta="2" tp="2" blk="0" stl="1" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="10" code="10" name="Williams, Clarence" checkname="WILLIAMS,CLARENCE" class="" gp="1">
+      <stats fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="9" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="7" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="13" code="13" name="Nzege, Michel" checkname="NZEGE,MICHEL" class="" gp="1" gs="1" pos="f">
+      <stats fgm="2" fga="4" fgm3="0" fga3="0" ftm="1" fta="2" tp="5" blk="0" stl="0" ast="1" min="14" oreb="3" dreb="0" treb="3" pf="4" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="3" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="4" fgm3="0" fga3="0" ftm="1" fta="2" tp="5" blk="0" stl="0" ast="1" min="11" oreb="3" dreb="0" treb="3" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="15" code="15" name="Barkley, Kentrell" checkname="BARKLEY,KENTRELL" class="" gp="1" oncourt="Y">
+      <stats fgm="3" fga="5" fgm3="2" fga3="3" ftm="1" fta="2" tp="9" blk="1" stl="1" ast="0" min="29" oreb="2" dreb="2" treb="4" pf="4" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="3" fgm3="1" fga3="1" ftm="0" fta="0" tp="5" blk="0" stl="0" ast="0" min="11" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="1" fga3="2" ftm="1" fta="2" tp="4" blk="1" stl="1" ast="0" min="18" oreb="1" dreb="2" treb="3" pf="3" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="21" code="21" name="Tyson, B.J." checkname="TYSON,BJ" class="" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="2" fga="10" fgm3="0" fga3="0" ftm="4" fta="6" tp="8" blk="0" stl="0" ast="0" min="29" oreb="1" dreb="1" treb="2" pf="1" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="6" fgm3="0" fga3="0" ftm="3" fta="4" tp="5" blk="0" stl="0" ast="0" min="17" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="4" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="0" stl="0" ast="0" min="12" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="24" code="24" name="Bost, Drews" checkname="BOST,DREWS" class="" gp="0"></player>
+    <player uni="31" code="31" name="Robbins, Peyton" checkname="ROBBINS,PEYTON" class="" gp="0"></player>
+    <player uni="34" code="34" name="Zangari, Michael" checkname="ZANGARI,MICHAEL" class="" gp="1" gs="1" pos="f" oncourt="Y">
+      <stats fgm="5" fga="12" fgm3="2" fga3="5" ftm="5" fta="5" tp="17" blk="0" stl="1" ast="0" min="31" oreb="1" dreb="3" treb="4" pf="4" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="7" fgm3="2" fga3="4" ftm="2" fta="2" tp="8" blk="0" stl="1" ast="0" min="17" oreb="1" dreb="1" treb="2" pf="2" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="3" fga="5" fgm3="0" fga3="1" ftm="3" fta="3" tp="9" blk="0" stl="0" ast="0" min="14" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="44" code="44" name="Aja, Kanu" checkname="AJA,KANU" class="" gp="1">
+      <stats fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="45" code="45" name="Obasohan, Justice" checkname="OBASOHAN,JUSTICE" class="" gp="0"></player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" class="" gp="1">
+      <stats oreb="2" dreb="1" treb="3" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" oreb="2" dreb="0" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <team vh="H" id="CAL" name="California" code="107" record="3-0">
+    <linescore line="31,39" score="70">
+      <lineprd prd="1" score="31"></lineprd>
+      <lineprd prd="2" score="39"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="24" fga="55" fgm3="3" fga3="23" ftm="19" fta="31" tp="70" blk="6" stl="1" ast="14" min="200" oreb="19" dreb="26" treb="45" pf="19" tf="0" to="15" deadball="8,1"
+             fgpct="43.6" fg3pct="13.0" ftpct="61.3"></stats>
+      <statsbyprd prd="1" fgm="10" fga="24" fgm3="3" fga3="11" ftm="8" fta="12" tp="31" blk="3" stl="0" ast="8" min="100" oreb="7" dreb="12" treb="19" pf="7" tf="0" to="10"></statsbyprd>
+      <statsbyprd prd="2" fgm="14" fga="31" fgm3="0" fga3="12" ftm="11" fta="19" tp="39" blk="3" stl="1" ast="6" min="100" oreb="12" dreb="14" treb="26" pf="12" tf="0" to="5"></statsbyprd>
+      <special vh="H" pts_to="11" pts_ch2="24" pts_paint="42" pts_fastb="5" pts_bench="4" ties="1" leads="1"
+               poss_count="68" poss_time="1141" score_count="35" score_time="556" lead_time="2168" tied_time="120" large_lead="11" large_lead_t="2nd-08:28"></special>
+    </totals>
+    <player uni="0" code="0" name="Brown, Jaylen" checkname="BROWN,JAYLEN" class="FR" gp="1" gs="1" pos="f" oncourt="Y">
+      <stats fgm="4" fga="12" fgm3="0" fga3="5" ftm="8" fta="14" tp="16" blk="0" stl="0" ast="2" min="32" oreb="2" dreb="8" treb="10" pf="3" tf="0" to="3" dq="0"></stats>
+      <statsbyprd prd="1" fgm="3" fga="6" fgm3="0" fga3="1" ftm="2" fta="4" tp="8" blk="0" stl="0" ast="2" min="17" oreb="2" dreb="3" treb="5" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="6" fgm3="0" fga3="4" ftm="6" fta="10" tp="8" blk="0" stl="0" ast="0" min="15" oreb="0" dreb="5" treb="5" pf="2" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="1" code="1" name="Rabb, Ivan" checkname="RABB,IVAN" class="FR" gp="1" gs="1" pos="f" oncourt="Y">
+      <stats fgm="5" fga="7" fgm3="0" fga3="0" ftm="4" fta="6" tp="14" blk="5" stl="0" ast="2" min="33" oreb="6" dreb="7" treb="13" pf="4" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="3" fgm3="0" fga3="0" ftm="3" fta="4" tp="7" blk="3" stl="0" ast="1" min="19" oreb="2" dreb="4" treb="6" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="3" fga="4" fgm3="0" fga3="0" ftm="1" fta="2" tp="7" blk="2" stl="0" ast="1" min="14" oreb="4" dreb="3" treb="7" pf="4" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="2" code="2" name="Singer, Sam" checkname="SINGER,SAM" class="JR" gp="1">
+      <stats fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="4" min="11" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="3" min="7" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="3" code="3" name="Wallace, Tyrone" checkname="WALLACE,TYRONE" class="SR" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="7" fga="15" fgm3="2" fga3="7" ftm="4" fta="7" tp="20" blk="0" stl="1" ast="2" min="35" oreb="1" dreb="5" treb="6" pf="4" tf="0" to="5" dq="0"></stats>
+      <statsbyprd prd="1" fgm="3" fga="6" fgm3="2" fga3="5" ftm="0" fta="0" tp="8" blk="0" stl="0" ast="1" min="18" oreb="0" dreb="4" treb="4" pf="2" tf="0" to="3" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="4" fga="9" fgm3="0" fga3="2" ftm="4" fta="7" tp="12" blk="0" stl="1" ast="1" min="17" oreb="1" dreb="1" treb="2" pf="2" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="10" code="10" name="Chauca, Brandon" checkname="CHAUCA,BRANDON" class="SO" gp="0"></player>
+    <player uni="12" code="12" name="Moute a Bidias, R" checkname="MOUTE A BIDIAS,R" class="JR" gp="0"></player>
+    <player uni="20" code="20" name="Kerr, Nick" checkname="KERR,NICK" class="SR" gp="0"></player>
+    <player uni="21" code="21" name="Hamilton, Nick" checkname="HAMILTON,NICK" class="SO" gp="0"></player>
+    <player uni="22" code="22" name="Okoroh, Kingsley" checkname="OKOROH,KINGSLEY" class="SO" gp="0"></player>
+    <player uni="23" code="23" name="Bird, Jabari" checkname="BIRD,JABARI" class="JR" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="5" fga="8" fgm3="0" fga3="2" ftm="0" fta="0" tp="10" blk="1" stl="0" ast="0" min="28" oreb="4" dreb="2" treb="6" pf="4" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="12" oreb="1" dreb="0" treb="1" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="4" fga="6" fgm3="0" fga3="2" ftm="0" fta="0" tp="8" blk="1" stl="0" ast="0" min="16" oreb="3" dreb="2" treb="5" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="24" code="24" name="Mathews, Jordan" checkname="MATHEWS,JORDAN" class="JR" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="1" fga="6" fgm3="1" fga3="5" ftm="3" fta="4" tp="6" blk="0" stl="0" ast="1" min="35" oreb="2" dreb="1" treb="3" pf="2" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="4" fgm3="1" fga3="3" ftm="3" fta="4" tp="6" blk="0" stl="0" ast="0" min="16" oreb="2" dreb="0" treb="2" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="2" fgm3="0" fga3="2" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="19" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="25" code="25" name="Davis, Roman" checkname="DAVIS,ROMAN" class="FR" gp="0"></player>
+    <player uni="31" code="31" name="Domingo, Stephen" checkname="DOMINGO,STEPHEN" class="JR" gp="1">
+      <stats fgm="1" fga="4" fgm3="0" fga3="3" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="3" min="19" oreb="2" dreb="2" treb="4" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="7" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="3" fgm3="0" fga3="2" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="2" min="12" oreb="2" dreb="2" treb="4" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="32" code="32" name="Glapion, Brenden" checkname="GLAPION,BRENDEN" class="SR" gp="0"></player>
+    <player uni="42" code="42" name="Welle, Cole" checkname="WELLE,COLE" class="SO" gp="0"></player>
+    <player uni="44" code="44" name="Rooks, Kameron" checkname="ROOKS,KAMERON" class="SO" gp="1">
+      <stats fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="7" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="3" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" class="" gp="1">
+      <stats oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <plays format="tokens">
+    <period number="1" time="20:00">
+      <special vh="V" pts_to="11" pts_ch2="2" pts_paint="8" pts_fastb="4" pts_bench="5" ties="1" leads="1"
+               poss_count="32" poss_time="666" score_count="12" score_time="183" lead_time="112" tied_time="120" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="7" pts_ch2="7" pts_paint="14" pts_fastb="3" pts_bench="0" ties="1" leads="1"
+               poss_count="33" poss_time="534" score_count="15" score_time="247" lead_time="968" tied_time="120" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="8" fga="27" fgm3="3" fga3="7" ftm="7" fta="8" blk="0" stl="3" ast="4"
+               oreb="7" dreb="6" treb="13" pf="12" tf="0" to="7"></summary>
+      <summary vh="H" fgm="10" fga="24" fgm3="3" fga3="11" ftm="8" fta="12" blk="3" stl="0" ast="8"
+               oreb="7" dreb="12" treb="19" pf="7" tf="0" to="10"></summary>
+      <play vh="H" time="19:40" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="LAYUP" paint="Y" vscore="0" hscore="2"></play>
+      <play vh="H" time="19:40" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="ASSIST"></play>
+      <play vh="H" time="19:24" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="FOUL"></play>
+      <play vh="V" time="19:24" uni="21" team="ECU" checkname="TYSON,BJ" action="GOOD" type="FT" vscore="1" hscore="2"></play>
+      <play vh="V" time="19:24" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="FT"></play>
+      <play vh="H" time="19:24" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="19:17" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="GOOD" type="3PTR" fastb="Y" vscore="1" hscore="5"></play>
+      <play vh="H" time="19:17" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="ASSIST"></play>
+      <play vh="V" time="18:52" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="18:52" uni="21" team="ECU" checkname="TYSON,BJ" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="18:38" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="MISS" type="3PTR"></play>
+      <play vh="V" time="18:38" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="18:26" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="FOUL"></play>
+      <play vh="V" time="18:23" uni="2" team="ECU" checkname="WHITE,CALEB" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="18:23" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="18:17" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="TURNOVER"></play>
+      <play vh="H" time="18:02" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="3PTR"></play>
+      <play vh="V" time="18:02" uni="2" team="ECU" checkname="WHITE,CALEB" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="17:50" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="17:50" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="17:40" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="FOUL"></play>
+      <play vh="V" time="17:35" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="FOUL"></play>
+      <play vh="H" time="17:35" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="FT"></play>
+      <play vh="H" time="17:35" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="17:35" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="FT" vscore="1" hscore="6"></play>
+      <play vh="V" time="17:35" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="SUB" type="IN"></play>
+      <play vh="V" time="17:35" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="SUB" type="OUT"></play>
+      <play vh="V" time="17:18" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="MISS" type="DUNK"></play>
+      <play vh="H" time="17:17" uni="1" team="CAL" checkname="RABB,IVAN" action="BLOCK"></play>
+      <play vh="V" time="17:17" uni="TM" team="ECU" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="17:03" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="17:03" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="16:49" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="16:49" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="16:39" uni="22" team="CAL" checkname="OKOROH,KINGSLEY" action="SUB" type="IN"></play>
+      <play vh="H" time="16:28" uni="1" team="CAL" checkname="RABB,IVAN" action="GOOD" type="LAYUP" paint="Y" vscore="1" hscore="8"></play>
+      <play vh="H" time="16:28" uni="2" team="CAL" checkname="SINGER,SAM" action="ASSIST"></play>
+      <play vh="H" time="16:20" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="IN"></play>
+      <play vh="H" time="16:20" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="OUT"></play>
+      <play vh="H" time="16:20" uni="22" team="CAL" checkname="OKOROH,KINGSLEY" action="SUB" type="OUT"></play>
+      <play vh="V" time="16:04" uni="2" team="ECU" checkname="WHITE,CALEB" action="TURNOVER"></play>
+      <play vh="H" time="15:58" uni="2" team="CAL" checkname="SINGER,SAM" action="TURNOVER"></play>
+      <play vh="V" time="15:53" uni="2" team="ECU" checkname="WHITE,CALEB" action="FOUL"></play>
+      <play vh="V" time="15:53" uni="2" team="ECU" checkname="WHITE,CALEB" action="TURNOVER"></play>
+      <play vh="V" time="15:52" uni="TM" team="ECU" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="15:37" uni="2" team="CAL" checkname="SINGER,SAM" action="MISS" type="3PTR"></play>
+      <play vh="V" time="15:37" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="15:24" uni="2" team="ECU" checkname="WHITE,CALEB" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="15:24" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="15:20" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="FOUL"></play>
+      <play vh="H" time="15:20" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="SUB" type="IN"></play>
+      <play vh="H" time="15:20" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="SUB" type="OUT"></play>
+      <play vh="H" time="15:12" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="15:12" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="15:00" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="15:00" uni="2" team="CAL" checkname="SINGER,SAM" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="14:35" uni="1" team="CAL" checkname="RABB,IVAN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="14:35" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="14:26" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="14:26" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="14:07" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="TURNOVER"></play>
+      <play vh="V" time="14:07" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="SUB" type="IN"></play>
+      <play vh="V" time="14:07" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="SUB" type="OUT"></play>
+      <play vh="H" time="14:07" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="IN"></play>
+      <play vh="H" time="14:07" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="SUB" type="IN"></play>
+      <play vh="H" time="14:07" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="SUB" type="IN"></play>
+      <play vh="H" time="14:07" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="SUB" type="OUT"></play>
+      <play vh="H" time="14:07" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="OUT"></play>
+      <play vh="H" time="14:07" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="13:48" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="3PTR" vscore="4" hscore="8"></play>
+      <play vh="V" time="13:48" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="ASSIST"></play>
+      <play vh="H" time="13:32" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="TURNOVER"></play>
+      <play vh="V" time="13:29" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="STEAL"></play>
+      <play vh="V" time="13:26" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="13:26" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="13:11" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="LAYUP" paint="Y" vscore="6" hscore="8"></play>
+      <play vh="V" time="12:46" uni="5" team="ECU" checkname="LANCE,TEJADA" action="SUB" type="IN"></play>
+      <play vh="V" time="12:46" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:46" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="SUB" type="IN"></play>
+      <play vh="H" time="12:46" uni="1" team="CAL" checkname="RABB,IVAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:42" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="12:42" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="12:36" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="12:36" uni="5" team="ECU" checkname="LANCE,TEJADA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="12:25" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="GOOD" type="3PTR" vscore="9" hscore="8"></play>
+      <play vh="V" time="12:25" uni="5" team="ECU" checkname="LANCE,TEJADA" action="ASSIST"></play>
+      <play vh="H" time="12:13" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="12:13" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="12:08" uni="2" team="ECU" checkname="WHITE,CALEB" action="FOUL"></play>
+      <play vh="H" time="12:08" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="SUB" type="IN"></play>
+      <play vh="H" time="12:08" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:01" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="12:01" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="11:58" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="TURNOVER"></play>
+      <play vh="V" time="11:58" uni="TM" team="ECU" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="H" time="11:58" uni="1" team="CAL" checkname="RABB,IVAN" action="SUB" type="IN"></play>
+      <play vh="H" time="11:58" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="SUB" type="OUT"></play>
+      <play vh="V" time="11:34" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="11:34" uni="TM" team="ECU" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="11:12" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="TURNOVER"></play>
+      <play vh="H" time="11:02" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="TURNOVER"></play>
+      <play vh="V" time="10:53" uni="21" team="ECU" checkname="TYSON,BJ" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="11" hscore="8"></play>
+      <play vh="H" time="10:33" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="3PTR" vscore="11" hscore="11"></play>
+      <play vh="H" time="10:33" uni="1" team="CAL" checkname="RABB,IVAN" action="ASSIST"></play>
+      <play vh="V" time="09:59" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="MISS" type="3PTR"></play>
+      <play vh="H" time="09:59" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="09:51" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="FOUL"></play>
+      <play vh="H" time="09:51" uni="1" team="CAL" checkname="RABB,IVAN" action="GOOD" type="FT" vscore="11" hscore="12"></play>
+      <play vh="H" time="09:51" uni="1" team="CAL" checkname="RABB,IVAN" action="GOOD" type="FT" vscore="11" hscore="13"></play>
+      <play vh="V" time="09:51" uni="44" team="ECU" checkname="AJA,KANU" action="SUB" type="IN"></play>
+      <play vh="V" time="09:51" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="SUB" type="OUT"></play>
+      <play vh="V" time="09:28" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="09:28" uni="1" team="CAL" checkname="RABB,IVAN" action="BLOCK"></play>
+      <play vh="H" time="09:26" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="09:18" uni="23" team="CAL" checkname="BIRD,JABARI" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="09:18" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="09:15" uni="1" team="CAL" checkname="RABB,IVAN" action="GOOD" type="TIPIN" paint="Y" vscore="11" hscore="15"></play>
+      <play vh="H" time="08:50" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="FOUL"></play>
+      <play vh="V" time="08:50" uni="21" team="ECU" checkname="TYSON,BJ" action="GOOD" type="FT" vscore="12" hscore="15"></play>
+      <play vh="V" time="08:50" uni="21" team="ECU" checkname="TYSON,BJ" action="GOOD" type="FT" vscore="13" hscore="15"></play>
+      <play vh="V" time="08:50" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="SUB" type="IN"></play>
+      <play vh="V" time="08:50" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="SUB" type="IN"></play>
+      <play vh="V" time="08:50" uni="5" team="ECU" checkname="LANCE,TEJADA" action="SUB" type="OUT"></play>
+      <play vh="V" time="08:50" uni="21" team="ECU" checkname="TYSON,BJ" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:50" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="IN"></play>
+      <play vh="H" time="08:50" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="SUB" type="IN"></play>
+      <play vh="H" time="08:50" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:50" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:25" uni="1" team="CAL" checkname="RABB,IVAN" action="TURNOVER"></play>
+      <play vh="H" time="08:25" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="SUB" type="IN"></play>
+      <play vh="H" time="08:25" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:59" uni="44" team="ECU" checkname="AJA,KANU" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="07:59" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:57" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="FOUL"></play>
+      <play vh="H" time="07:57" uni="TM" team="CAL" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="H" time="07:57" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="MISS" type="FT"></play>
+      <play vh="V" time="07:57" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:57" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="SUB" type="IN"></play>
+      <play vh="V" time="07:57" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:48" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="GOOD" type="JUMPER" vscore="15" hscore="15"></play>
+      <play vh="H" time="07:23" uni="2" team="CAL" checkname="SINGER,SAM" action="TURNOVER"></play>
+      <play vh="V" time="07:22" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="SUB" type="IN"></play>
+      <play vh="V" time="07:22" uni="44" team="ECU" checkname="AJA,KANU" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:22" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="IN"></play>
+      <play vh="H" time="07:22" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="OUT"></play>
+      <play vh="V" time="06:56" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="FOUL"></play>
+      <play vh="V" time="06:56" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="TURNOVER"></play>
+      <play vh="H" time="06:56" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="SUB" type="IN"></play>
+      <play vh="H" time="06:56" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:50" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="LAYUP" paint="Y" vscore="15" hscore="17"></play>
+      <play vh="H" time="06:50" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="ASSIST"></play>
+      <play vh="V" time="06:24" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="FOUL"></play>
+      <play vh="V" time="06:24" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="TURNOVER"></play>
+      <play vh="H" time="06:16" uni="23" team="CAL" checkname="BIRD,JABARI" action="GOOD" type="LAYUP" paint="Y" vscore="15" hscore="19"></play>
+      <play vh="H" time="06:16" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="ASSIST"></play>
+      <play vh="V" time="05:45" uni="21" team="ECU" checkname="TYSON,BJ" action="SUB" type="IN"></play>
+      <play vh="V" time="05:45" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="SUB" type="OUT"></play>
+      <play vh="V" time="05:42" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="LAYUP" paint="Y" vscore="17" hscore="19"></play>
+      <play vh="H" time="05:23" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="05:23" uni="23" team="CAL" checkname="BIRD,JABARI" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="05:18" uni="23" team="CAL" checkname="BIRD,JABARI" action="TURNOVER"></play>
+      <play vh="H" time="05:18" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="SUB" type="IN"></play>
+      <play vh="H" time="05:18" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:07" uni="23" team="CAL" checkname="BIRD,JABARI" action="FOUL"></play>
+      <play vh="V" time="04:58" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="04:58" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="04:50" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="FOUL"></play>
+      <play vh="H" time="04:50" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="FT"></play>
+      <play vh="H" time="04:50" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="04:50" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="FT" vscore="17" hscore="20"></play>
+      <play vh="H" time="04:37" uni="23" team="CAL" checkname="BIRD,JABARI" action="FOUL"></play>
+      <play vh="V" time="04:37" uni="0" team="ECU" checkname="RIAK,DENG" action="SUB" type="IN"></play>
+      <play vh="V" time="04:37" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="SUB" type="OUT"></play>
+      <play vh="H" time="04:37" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="IN"></play>
+      <play vh="H" time="04:37" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="OUT"></play>
+      <play vh="V" time="04:22" uni="0" team="ECU" checkname="RIAK,DENG" action="MISS" type="3PTR"></play>
+      <play vh="H" time="04:22" uni="1" team="CAL" checkname="RABB,IVAN" action="BLOCK"></play>
+      <play vh="V" time="04:19" uni="2" team="ECU" checkname="WHITE,CALEB" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="04:14" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="TURNOVER"></play>
+      <play vh="V" time="03:50" uni="0" team="ECU" checkname="RIAK,DENG" action="FOUL"></play>
+      <play vh="H" time="03:50" uni="TM" team="CAL" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="H" time="03:50" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="GOOD" type="FT" vscore="17" hscore="21"></play>
+      <play vh="H" time="03:50" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="GOOD" type="FT" vscore="17" hscore="22"></play>
+      <play vh="H" time="03:50" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="GOOD" type="FT" vscore="17" hscore="23"></play>
+      <play vh="V" time="03:39" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:39" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:30" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="3PTR" vscore="17" hscore="26"></play>
+      <play vh="H" time="03:30" uni="2" team="CAL" checkname="SINGER,SAM" action="ASSIST"></play>
+      <play vh="V" time="03:03" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:03" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="02:39" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="02:39" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="02:34" uni="0" team="ECU" checkname="RIAK,DENG" action="FOUL"></play>
+      <play vh="H" time="02:34" uni="1" team="CAL" checkname="RABB,IVAN" action="MISS" type="FT"></play>
+      <play vh="H" time="02:34" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="02:34" uni="1" team="CAL" checkname="RABB,IVAN" action="GOOD" type="FT" vscore="17" hscore="27"></play>
+      <play vh="V" time="02:34" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="SUB" type="IN"></play>
+      <play vh="V" time="02:34" uni="0" team="ECU" checkname="RIAK,DENG" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:34" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="SUB" type="IN"></play>
+      <play vh="H" time="02:34" uni="1" team="CAL" checkname="RABB,IVAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:20" uni="1" team="CAL" checkname="RABB,IVAN" action="SUB" type="IN"></play>
+      <play vh="H" time="02:20" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:09" uni="2" team="CAL" checkname="SINGER,SAM" action="FOUL"></play>
+      <play vh="V" time="02:09" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="FT" vscore="18" hscore="27"></play>
+      <play vh="V" time="02:09" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="FT" vscore="19" hscore="27"></play>
+      <play vh="H" time="01:52" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="TURNOVER"></play>
+      <play vh="V" time="01:51" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="STEAL"></play>
+      <play vh="V" time="01:47" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="GOOD" type="DUNK" paint="Y" fastb="Y" vscore="21" hscore="27"></play>
+      <play vh="V" time="01:47" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="ASSIST"></play>
+      <play vh="H" time="01:30" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="JUMPER" paint="Y" vscore="21" hscore="29"></play>
+      <play vh="H" time="01:30" uni="2" team="CAL" checkname="SINGER,SAM" action="ASSIST"></play>
+      <play vh="H" time="01:27" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="SUB" type="IN"></play>
+      <play vh="H" time="01:27" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="OUT"></play>
+      <play vh="V" time="01:22" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="3PTR" vscore="24" hscore="29"></play>
+      <play vh="V" time="01:22" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="ASSIST"></play>
+      <play vh="H" time="00:56" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:56" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="00:52" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="LAYUP" paint="Y" vscore="24" hscore="31"></play>
+      <play vh="V" time="00:35" uni="2" team="ECU" checkname="WHITE,CALEB" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:35" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:26" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="TURNOVER"></play>
+      <play vh="V" time="00:26" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="STEAL"></play>
+      <play vh="H" time="00:25" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="FOUL"></play>
+      <play vh="V" time="00:25" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="FT" vscore="25" hscore="31"></play>
+      <play vh="V" time="00:25" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="FT" vscore="26" hscore="31"></play>
+      <play vh="V" time="00:25" uni="44" team="ECU" checkname="AJA,KANU" action="SUB" type="IN"></play>
+      <play vh="V" time="00:25" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="SUB" type="IN"></play>
+      <play vh="V" time="00:25" uni="2" team="ECU" checkname="WHITE,CALEB" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:25" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:25" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="IN"></play>
+      <play vh="H" time="00:25" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:21" uni="TM" team="CAL" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="H" time="00:02" uni="2" team="CAL" checkname="SINGER,SAM" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="00:02" uni="TM" team="ECU" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <clock time="00:00"></clock>
+    </period>
+    <period number="2" time="20:00">
+      <special vh="V" pts_to="4" pts_ch2="4" pts_paint="14" pts_fastb="0" pts_bench="8" ties="0" leads="0"
+               poss_count="36" poss_time="593" score_count="16" score_time="289" lead_time="0" tied_time="0" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="4" pts_ch2="17" pts_paint="28" pts_fastb="2" pts_bench="4" ties="0" leads="0"
+               poss_count="35" poss_time="607" score_count="20" score_time="309" lead_time="1200" tied_time="0" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="10" fga="28" fgm3="2" fga3="8" ftm="14" fta="17" blk="1" stl="3" ast="6"
+               oreb="4" dreb="9" treb="13" pf="14" tf="0" to="3"></summary>
+      <summary vh="H" fgm="14" fga="31" fgm3="0" fga3="12" ftm="11" fta="19" blk="3" stl="1" ast="6"
+               oreb="12" dreb="14" treb="26" pf="12" tf="0" to="5"></summary>
+      <play vh="V" time="19:33" uni="2" team="ECU" checkname="WHITE,CALEB" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="19:33" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="19:29" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="FOUL"></play>
+      <play vh="V" time="19:26" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="19:26" uni="1" team="CAL" checkname="RABB,IVAN" action="BLOCK"></play>
+      <play vh="H" time="19:22" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="19:15" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="19:15" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="19:07" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="19:07" uni="23" team="CAL" checkname="BIRD,JABARI" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="18:43" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="18:43" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="18:27" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="18:27" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="18:24" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="FOUL"></play>
+      <play vh="V" time="18:24" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="SUB" type="IN"></play>
+      <play vh="V" time="18:24" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="SUB" type="OUT"></play>
+      <play vh="V" time="18:07" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="FOUL"></play>
+      <play vh="V" time="18:04" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="FOUL"></play>
+      <play vh="H" time="18:04" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="FT"></play>
+      <play vh="H" time="18:04" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="18:04" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="FT"></play>
+      <play vh="H" time="18:04" uni="23" team="CAL" checkname="BIRD,JABARI" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="18:02" uni="23" team="CAL" checkname="BIRD,JABARI" action="GOOD" type="LAYUP" paint="Y" vscore="26" hscore="33"></play>
+      <play vh="V" time="17:45" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="JUMPER" paint="Y" vscore="28" hscore="33"></play>
+      <play vh="V" time="17:45" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="ASSIST"></play>
+      <play vh="H" time="17:45" uni="1" team="CAL" checkname="RABB,IVAN" action="FOUL"></play>
+      <play vh="V" time="17:45" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="FT" vscore="29" hscore="33"></play>
+      <play vh="H" time="17:27" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="17:27" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="17:22" uni="1" team="CAL" checkname="RABB,IVAN" action="GOOD" type="DUNK" paint="Y" vscore="29" hscore="35"></play>
+      <play vh="H" time="16:58" uni="1" team="CAL" checkname="RABB,IVAN" action="FOUL"></play>
+      <play vh="V" time="16:58" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="FT" vscore="30" hscore="35"></play>
+      <play vh="V" time="16:58" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="FT" vscore="31" hscore="35"></play>
+      <play vh="H" time="16:40" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="16:40" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="16:28" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="MISS" type="3PTR"></play>
+      <play vh="H" time="16:28" uni="23" team="CAL" checkname="BIRD,JABARI" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="16:20" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="FOUL"></play>
+      <play vh="H" time="16:20" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="FT"></play>
+      <play vh="H" time="16:20" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="16:20" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="FT" vscore="31" hscore="36"></play>
+      <play vh="H" time="16:20" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="SUB" type="IN"></play>
+      <play vh="H" time="16:20" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="SUB" type="OUT"></play>
+      <play vh="V" time="16:04" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="16:04" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="16:02" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="FOUL"></play>
+      <play vh="H" time="15:48" uni="1" team="CAL" checkname="RABB,IVAN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="15:48" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="15:44" uni="1" team="CAL" checkname="RABB,IVAN" action="GOOD" type="DUNK" paint="Y" vscore="31" hscore="38"></play>
+      <play vh="V" time="15:25" uni="21" team="ECU" checkname="TYSON,BJ" action="GOOD" type="LAYUP" paint="Y" vscore="33" hscore="38"></play>
+      <play vh="H" time="15:10" uni="23" team="CAL" checkname="BIRD,JABARI" action="MISS" type="3PTR"></play>
+      <play vh="V" time="15:10" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="15:00" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="15:00" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="14:51" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="14:50" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="BLOCK"></play>
+      <play vh="H" time="14:49" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="14:47" uni="1" team="CAL" checkname="RABB,IVAN" action="GOOD" type="LAYUP" paint="Y" vscore="33" hscore="40"></play>
+      <play vh="V" time="14:47" uni="21" team="ECU" checkname="TYSON,BJ" action="FOUL"></play>
+      <play vh="H" time="14:47" uni="TM" team="CAL" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="H" time="14:47" uni="1" team="CAL" checkname="RABB,IVAN" action="GOOD" type="FT" vscore="33" hscore="41"></play>
+      <play vh="V" time="14:47" uni="44" team="ECU" checkname="AJA,KANU" action="SUB" type="IN"></play>
+      <play vh="V" time="14:47" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="SUB" type="OUT"></play>
+      <play vh="H" time="14:47" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="SUB" type="IN"></play>
+      <play vh="H" time="14:47" uni="1" team="CAL" checkname="RABB,IVAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="14:28" uni="23" team="CAL" checkname="BIRD,JABARI" action="FOUL"></play>
+      <play vh="H" time="14:28" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="SUB" type="IN"></play>
+      <play vh="H" time="14:28" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="OUT"></play>
+      <play vh="V" time="14:23" uni="21" team="ECU" checkname="TYSON,BJ" action="TURNOVER"></play>
+      <play vh="H" time="13:58" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="FOUL"></play>
+      <play vh="H" time="13:58" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="TURNOVER"></play>
+      <play vh="H" time="13:58" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="IN"></play>
+      <play vh="H" time="13:58" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="SUB" type="OUT"></play>
+      <play vh="V" time="13:47" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="13:47" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="13:39" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="TURNOVER"></play>
+      <play vh="V" time="13:34" uni="2" team="ECU" checkname="WHITE,CALEB" action="MISS" type="3PTR"></play>
+      <play vh="V" time="13:34" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="13:25" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="FOUL"></play>
+      <play vh="V" time="13:25" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="MISS" type="FT"></play>
+      <play vh="V" time="13:25" uni="TM" team="ECU" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="13:25" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="GOOD" type="FT" vscore="34" hscore="41"></play>
+      <play vh="H" time="13:08" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="13:08" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="12:58" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="12:58" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="12:48" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="12:48" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="12:43" uni="44" team="ECU" checkname="AJA,KANU" action="FOUL"></play>
+      <play vh="H" time="12:43" uni="1" team="CAL" checkname="RABB,IVAN" action="MISS" type="FT"></play>
+      <play vh="V" time="12:43" uni="21" team="ECU" checkname="TYSON,BJ" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="12:43" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="IN"></play>
+      <play vh="H" time="12:43" uni="1" team="CAL" checkname="RABB,IVAN" action="SUB" type="IN"></play>
+      <play vh="H" time="12:43" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:43" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="12:32" uni="44" team="ECU" checkname="AJA,KANU" action="GOOD" type="DUNK" paint="Y" vscore="36" hscore="41"></play>
+      <play vh="V" time="12:32" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="ASSIST"></play>
+      <play vh="H" time="12:17" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="12:17" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="12:07" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="SUB" type="IN"></play>
+      <play vh="V" time="12:07" uni="44" team="ECU" checkname="AJA,KANU" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:05" uni="23" team="CAL" checkname="BIRD,JABARI" action="MISS" type="3PTR"></play>
+      <play vh="H" time="12:05" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="12:00" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="GOOD" type="JUMPER" paint="Y" vscore="36" hscore="43"></play>
+      <play vh="V" time="11:38" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="GOOD" type="3PTR" vscore="39" hscore="43"></play>
+      <play vh="V" time="11:38" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="ASSIST"></play>
+      <play vh="H" time="11:22" uni="1" team="CAL" checkname="RABB,IVAN" action="TURNOVER"></play>
+      <play vh="V" time="11:21" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="STEAL"></play>
+      <play vh="V" time="11:18" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="11:18" uni="23" team="CAL" checkname="BIRD,JABARI" action="BLOCK"></play>
+      <play vh="V" time="11:15" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="11:15" uni="1" team="CAL" checkname="RABB,IVAN" action="FOUL"></play>
+      <play vh="V" time="11:15" uni="TM" team="ECU" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="V" time="11:15" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="MISS" type="FT"></play>
+      <play vh="V" time="11:15" uni="TM" team="ECU" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="11:15" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="GOOD" type="FT" vscore="40" hscore="43"></play>
+      <play vh="V" time="11:15" uni="5" team="ECU" checkname="LANCE,TEJADA" action="SUB" type="IN"></play>
+      <play vh="V" time="11:15" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="SUB" type="OUT"></play>
+      <play vh="H" time="11:15" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="SUB" type="IN"></play>
+      <play vh="H" time="11:15" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="SUB" type="IN"></play>
+      <play vh="H" time="11:15" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="OUT"></play>
+      <play vh="H" time="11:15" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="OUT"></play>
+      <play vh="H" time="10:59" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="TURNOVER"></play>
+      <play vh="V" time="10:57" uni="2" team="ECU" checkname="WHITE,CALEB" action="STEAL"></play>
+      <play vh="V" time="10:53" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="MISS" type="3PTR"></play>
+      <play vh="H" time="10:53" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="10:51" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="FOUL"></play>
+      <play vh="H" time="10:51" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="FT" vscore="40" hscore="44"></play>
+      <play vh="H" time="10:51" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="FT" vscore="40" hscore="45"></play>
+      <play vh="H" time="10:51" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="IN"></play>
+      <play vh="H" time="10:51" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="SUB" type="OUT"></play>
+      <play vh="V" time="10:31" uni="2" team="ECU" checkname="WHITE,CALEB" action="MISS" type="3PTR"></play>
+      <play vh="H" time="10:31" uni="1" team="CAL" checkname="RABB,IVAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="10:18" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="10:18" uni="23" team="CAL" checkname="BIRD,JABARI" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="10:15" uni="23" team="CAL" checkname="BIRD,JABARI" action="GOOD" type="LAYUP" paint="Y" vscore="40" hscore="47"></play>
+      <play vh="V" time="09:54" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="09:54" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="09:43" uni="5" team="ECU" checkname="LANCE,TEJADA" action="FOUL"></play>
+      <play vh="H" time="09:43" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="FT"></play>
+      <play vh="H" time="09:43" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="09:36" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="JUMPER" paint="Y" vscore="40" hscore="49"></play>
+      <play vh="V" time="09:05" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="JUMPER" vscore="42" hscore="49"></play>
+      <play vh="H" time="08:53" uni="23" team="CAL" checkname="BIRD,JABARI" action="GOOD" type="LAYUP" paint="Y" vscore="42" hscore="51"></play>
+      <play vh="H" time="08:53" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="ASSIST"></play>
+      <play vh="V" time="08:32" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="TURNOVER"></play>
+      <play vh="H" time="08:30" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="STEAL"></play>
+      <play vh="H" time="08:28" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="42" hscore="53"></play>
+      <play vh="H" time="08:28" uni="24" team="CAL" checkname="MATHEWS,JORDAN" action="ASSIST"></play>
+      <play vh="V" time="08:26" uni="TM" team="ECU" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="08:21" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="SUB" type="IN"></play>
+      <play vh="V" time="08:21" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:15" uni="1" team="CAL" checkname="RABB,IVAN" action="FOUL"></play>
+      <play vh="V" time="08:15" uni="5" team="ECU" checkname="LANCE,TEJADA" action="GOOD" type="FT" vscore="43" hscore="53"></play>
+      <play vh="V" time="08:15" uni="5" team="ECU" checkname="LANCE,TEJADA" action="GOOD" type="FT" vscore="44" hscore="53"></play>
+      <play vh="V" time="08:15" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="SUB" type="IN"></play>
+      <play vh="V" time="08:15" uni="21" team="ECU" checkname="TYSON,BJ" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:15" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="SUB" type="IN"></play>
+      <play vh="H" time="08:15" uni="1" team="CAL" checkname="RABB,IVAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:05" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="JUMPER" paint="Y" vscore="44" hscore="55"></play>
+      <play vh="H" time="08:05" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="ASSIST"></play>
+      <play vh="V" time="07:46" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="JUMPER" paint="Y" vscore="46" hscore="55"></play>
+      <play vh="V" time="07:46" uni="2" team="ECU" checkname="WHITE,CALEB" action="ASSIST"></play>
+      <play vh="H" time="07:29" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="TURNOVER"></play>
+      <play vh="V" time="07:27" uni="5" team="ECU" checkname="LANCE,TEJADA" action="STEAL"></play>
+      <play vh="V" time="07:10" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="GOOD" type="JUMPER" paint="Y" vscore="48" hscore="55"></play>
+      <play vh="H" time="06:46" uni="TM" team="CAL" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="H" time="06:46" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="IN"></play>
+      <play vh="H" time="06:46" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:41" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="LAYUP" paint="Y" vscore="48" hscore="57"></play>
+      <play vh="V" time="06:21" uni="5" team="ECU" checkname="LANCE,TEJADA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="06:21" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:15" uni="5" team="ECU" checkname="LANCE,TEJADA" action="FOUL"></play>
+      <play vh="H" time="06:15" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="FT"></play>
+      <play vh="H" time="06:15" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="06:15" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="FT" vscore="48" hscore="58"></play>
+      <play vh="V" time="06:15" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="SUB" type="IN"></play>
+      <play vh="V" time="06:15" uni="5" team="ECU" checkname="LANCE,TEJADA" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:55" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="FOUL"></play>
+      <play vh="V" time="05:55" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="FT" vscore="49" hscore="58"></play>
+      <play vh="V" time="05:55" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="FT" vscore="50" hscore="58"></play>
+      <play vh="V" time="05:55" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="SUB" type="IN"></play>
+      <play vh="V" time="05:55" uni="10" team="ECU" checkname="WILLIAMS,CLARENCE" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:38" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="LAYUP" paint="Y" vscore="50" hscore="60"></play>
+      <play vh="H" time="05:38" uni="2" team="CAL" checkname="SINGER,SAM" action="ASSIST"></play>
+      <play vh="H" time="05:19" uni="23" team="CAL" checkname="BIRD,JABARI" action="FOUL"></play>
+      <play vh="V" time="05:19" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="FT" vscore="51" hscore="60"></play>
+      <play vh="V" time="05:19" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="FT" vscore="52" hscore="60"></play>
+      <play vh="H" time="05:19" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="SUB" type="IN"></play>
+      <play vh="H" time="05:19" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="SUB" type="IN"></play>
+      <play vh="H" time="05:19" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:19" uni="2" team="CAL" checkname="SINGER,SAM" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:10" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="GOOD" type="LAYUP" paint="Y" vscore="52" hscore="62"></play>
+      <play vh="H" time="05:10" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="ASSIST"></play>
+      <play vh="V" time="04:58" uni="2" team="ECU" checkname="WHITE,CALEB" action="GOOD" type="3PTR" vscore="55" hscore="62"></play>
+      <play vh="V" time="04:58" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="ASSIST"></play>
+      <play vh="V" time="04:54" uni="TM" team="ECU" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="04:33" uni="15" team="ECU" checkname="BARKLEY,KENTRELL" action="FOUL"></play>
+      <play vh="H" time="04:33" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="FT"></play>
+      <play vh="H" time="04:33" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="04:33" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="FT"></play>
+      <play vh="V" time="04:33" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="04:22" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="GOOD" type="LAYUP" paint="Y" vscore="57" hscore="62"></play>
+      <play vh="V" time="04:22" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="ASSIST"></play>
+      <play vh="H" time="04:00" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="04:00" uni="TM" team="CAL" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="03:55" uni="TM" team="CAL" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="H" time="03:55" uni="1" team="CAL" checkname="RABB,IVAN" action="SUB" type="IN"></play>
+      <play vh="H" time="03:55" uni="44" team="CAL" checkname="ROOKS,KAMERON" action="SUB" type="OUT"></play>
+      <play vh="H" time="03:41" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="03:41" uni="2" team="ECU" checkname="WHITE,CALEB" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:17" uni="23" team="CAL" checkname="BIRD,JABARI" action="SUB" type="IN"></play>
+      <play vh="H" time="03:17" uni="31" team="CAL" checkname="DOMINGO,STEPHEN" action="SUB" type="OUT"></play>
+      <play vh="V" time="03:12" uni="2" team="ECU" checkname="WHITE,CALEB" action="MISS" type="3PTR"></play>
+      <play vh="V" time="03:12" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="03:07" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="GOOD" type="TIPIN" paint="Y" vscore="59" hscore="62"></play>
+      <play vh="H" time="02:48" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="02:48" uni="TM" team="ECU" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="02:28" uni="34" team="ECU" checkname="ZANGARI,MICHAEL" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="02:28" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="02:24" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="FOUL"></play>
+      <play vh="H" time="02:24" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="FT" vscore="59" hscore="63"></play>
+      <play vh="H" time="02:24" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="GOOD" type="FT" vscore="59" hscore="64"></play>
+      <play vh="H" time="02:14" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="FOUL"></play>
+      <play vh="V" time="02:14" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="GOOD" type="FT" vscore="60" hscore="64"></play>
+      <play vh="V" time="02:14" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="GOOD" type="FT" vscore="61" hscore="64"></play>
+      <play vh="H" time="01:53" uni="23" team="CAL" checkname="BIRD,JABARI" action="GOOD" type="LAYUP" paint="Y" vscore="61" hscore="66"></play>
+      <play vh="H" time="01:53" uni="1" team="CAL" checkname="RABB,IVAN" action="ASSIST"></play>
+      <play vh="V" time="01:40" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="TURNOVER"></play>
+      <play vh="H" time="01:18" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:18" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="00:47" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="00:47" uni="23" team="CAL" checkname="BIRD,JABARI" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="00:39" uni="2" team="ECU" checkname="WHITE,CALEB" action="FOUL"></play>
+      <play vh="H" time="00:39" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="FT" vscore="61" hscore="67"></play>
+      <play vh="H" time="00:39" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="FT" vscore="61" hscore="68"></play>
+      <play vh="H" time="00:39" uni="TM" team="CAL" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="00:39" uni="21" team="ECU" checkname="TYSON,BJ" action="SUB" type="IN"></play>
+      <play vh="V" time="00:39" uni="13" team="ECU" checkname="NZEGE,MICHEL" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:32" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="FOUL"></play>
+      <play vh="V" time="00:32" uni="21" team="ECU" checkname="TYSON,BJ" action="MISS" type="FT"></play>
+      <play vh="V" time="00:32" uni="TM" team="ECU" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="00:32" uni="21" team="ECU" checkname="TYSON,BJ" action="GOOD" type="FT" vscore="62" hscore="68"></play>
+      <play vh="V" time="00:29" uni="2" team="ECU" checkname="WHITE,CALEB" action="FOUL"></play>
+      <play vh="H" time="00:29" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="FT" vscore="62" hscore="69"></play>
+      <play vh="H" time="00:29" uni="3" team="CAL" checkname="WALLACE,TYRONE" action="GOOD" type="FT" vscore="62" hscore="70"></play>
+      <play vh="V" time="00:22" uni="4" team="ECU" checkname="WILLIAMS,PRINCE" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="00:22" uni="1" team="CAL" checkname="RABB,IVAN" action="BLOCK"></play>
+      <play vh="H" time="00:19" uni="0" team="CAL" checkname="BROWN,JAYLEN" action="REBOUND" type="DEF"></play>
+      <clock time="00:00"></clock>
+    </period>
+  </plays>
+</bbgame>

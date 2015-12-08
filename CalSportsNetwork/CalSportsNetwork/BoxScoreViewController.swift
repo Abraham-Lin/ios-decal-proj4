@@ -13,6 +13,7 @@ import Foundation
 class BoxScoreViewController: UIViewController {
     
     var gamesArray : NSArray = []
+    var gameID = ""
     
     @IBOutlet weak var backButton: UIButton!
     @IBOutlet weak var feedView: UIScrollView!
@@ -29,7 +30,7 @@ class BoxScoreViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        let request = NSMutableURLRequest(URL: NSURL(string: "http://ec2-52-26-157-178.us-west-2.compute.amazonaws.com/sports/basketball")!)
+        let request = NSMutableURLRequest(URL: NSURL(string: "http://ec2-52-26-157-178.us-west-2.compute.amazonaws.com/games/" + self.gameID)!)
         let session = NSURLSession.sharedSession()
         request.HTTPMethod = "GET"
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
