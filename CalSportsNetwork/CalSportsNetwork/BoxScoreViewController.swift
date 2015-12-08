@@ -46,7 +46,8 @@ class BoxScoreViewController: UIViewController {
             
             do {
                 if let json = try NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions.AllowFragments) as? NSArray {
-                    let success = json[0]                                 // Okay, the `json` is here, let's get the value for 'success' out of it
+                    let success = (json[0]["home"]) as! NSDictionary
+                    // Okay, the `json` is here, let's get the value for 'success' out of it
                     print("Success: \(success)")
                 } else {
                     let jsonStr = NSString(data: data!, encoding: NSUTF8StringEncoding)    // No error thrown, but not NSDictionary
