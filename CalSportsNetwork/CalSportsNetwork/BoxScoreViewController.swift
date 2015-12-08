@@ -14,14 +14,13 @@ class BoxScoreViewController: UIViewController {
     
     var gamesArray : NSArray = []
     
+    @IBOutlet weak var backButton: UIButton!
     @IBOutlet weak var feedView: UIScrollView!
     @IBOutlet weak var homeTeamScore: UILabel!
     @IBOutlet weak var awayTeamScore: UILabel!
     @IBOutlet weak var gameStatus: UILabel!
     @IBOutlet weak var awayTeamName: UILabel!
     @IBOutlet weak var homeTeamName: UILabel!
-    @IBOutlet weak var homeTeamRecord: UILabel!
-    @IBOutlet weak var awayTeamRecord: UILabel!
     
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(animated)
@@ -47,6 +46,15 @@ class BoxScoreViewController: UIViewController {
             do {
                 if let json = try NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions.AllowFragments) as? NSArray {
                     let success = (json[0]["home"]) as! NSDictionary
+                    let success1 = (json[0]["away"]) as! NSDictionary
+                    let temp = success["name"] as! String
+                    let temp1 = success["score"] as! String
+                    let temp2 = success1["name"] as! String
+                    let temp3 = success1["score"] as! String
+                    self.homeTeamName.text = temp
+                    self.homeTeamScore.text = temp1
+                    self.awayTeamName.text = temp2
+                    self.awayTeamScore.text = temp3
                     // Okay, the `json` is here, let's get the value for 'success' out of it
                     print("Success: \(success)")
                 } else {
